@@ -1,7 +1,6 @@
 ---
 title: "Getting started with the CRM of Obris"
 keywords: sample homepage
-tags: [Obris]
 sidebar: mydoc_sidebar
 permalink: index.html
 
