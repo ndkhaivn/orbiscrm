@@ -1,6 +1,5 @@
 ---
-title: mydoc_close_enquiry
-tags: [formatting]
+title: Close Enquiry
 sidebar: mydoc_sidebar
 permalink: mydoc_close_enquiry.html
 folder: mydoc
