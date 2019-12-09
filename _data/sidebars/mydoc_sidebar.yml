@@ -36,7 +36,7 @@ entries:
             output: web, pdf
 
           - title: Enquiries View
-            url: /Enquiry.html
+            url: /enquiry.html
             output: web, pdf
 
           - title: Client Profile
@@ -87,7 +87,7 @@ entries:
       - title: Reminder
         output: web, pdf
         folderitems:
-      
+
           - title: Setting up Reminder
             url: /reminder.html
             output: web, pdf
