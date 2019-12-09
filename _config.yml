@@ -3,10 +3,10 @@ repository: tomjoht/documentation-theme-jekyll
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Jekyll Documentation Theme
+topnav_title: Orbis Advisors CRM User Docs
 # this appears on the top navigation bar next to the home button
 
-site_title: Jekyll theme for documentation
+site_title: User Docs
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Your company
@@ -36,7 +36,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: Orbis Advisors CRM User Docs
 
 feedback_email: tomjoht@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
