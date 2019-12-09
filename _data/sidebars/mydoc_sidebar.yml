@@ -20,276 +20,89 @@ entries:
       type: frontmatter
 
   - title: Overview
+    url: /mydoc_index.html
+    output: web, pdf
+
+  - title: Dashboard
     output: web, pdf
     folderitems:
 
-    - title: Get started
-      url: /index.html
-      output: web, pdf
-      type: homepage
-
-    - title: Introduction
-      url: /mydoc_introduction.html
+    - title: Business Status
+      url: /mydoc_business_status.html
       output: web, pdf
 
-    - title: Supported features
-      url: /mydoc_supported_features.html
+    - title: Application
+      url: /mydoc_application.html
       output: web, pdf
 
-    - title: About the theme author
-      url: /mydoc_about.html
+    - title: Pending Task (Reminder)
+      url: /mydoc_reminder.html
       output: web, pdf
 
-    - title: Support
-      url: /mydoc_support.html
-      output: web, pdf
-
-  - title: Release Notes
+  - title: Enquiries
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
+    - title: Close Enquiry
+      url: /mydoc_close_enquiry.html
       output: web, pdf
 
-    - title: 5.0 Release notes
-      url: /mydoc_release_notes_50.html
+    - title: Archive Enquiry
+      url: /mydoc_archive_enquiry.html
       output: web, pdf
 
-  - title: Installation
-    output: web, pdf
-    folderitems:
-
-    - title: About Ruby, Gems, Bundler, etc.
-      url: /mydoc_about_ruby_gems_etc.html
+    - title: Add Notes For The Enquiry
+      url: /mydoc_add_notes_for_the_enquiry.html
       output: web, pdf
 
-    - title: Install Jekyll on Mac
-      url: /mydoc_install_jekyll_on_mac.html
-      output: web, pdf
-
-    - title: Install Jekyll on Windows
-      url: /mydoc_install_jekyll_on_windows.html
-      output: web, pdf
-
-  - title: Authoring
+  - title: Clients
     output: web, pdf
 
     folderitems:
-    - title: Pages
-      url: /mydoc_pages.html
+    - title: Create Account For Unregistered Client
+      url: /mydoc_create_account_for_unregistered_client.html
       output: web, pdf
 
-    - title: Posts
-      url: /mydoc_posts.html
+    - title: Edit Client Details
+      url: /mydoc_edit_client_details.html
       output: web, pdf
 
-    - title: Lists
-      url: /mydoc_lists.html
+    - title: Add Notes For The Client
+      url: /mydoc_add_notes_for_the_client.html
       output: web, pdf
 
-    - title: Conditional logic
-      url: /mydoc_conditional_logic.html
-      output: web, pdf
-
-    - title: Content reuse
-      url: /mydoc_content_reuse.html
-      output: web, pdf
-
-    - title: Collections
-      url: /mydoc_collections.html
-      output: web, pdf
-
-    - title: WebStorm editor tips
-      url: /mydoc_webstorm_text_editor.html
-      output: web, pdf
-
-    - title: Atom editor tips
-      url: /mydoc_atom_text_editor.html
-      output: web, pdf
-
-  - title: Navigation
+  - title: Forms
     output: web, pdf
 
     folderitems:
-    - title: Sidebar navigation
-      url: /mydoc_sidebar_navigation.html
+    - title: Add And Remove Pages
+      url: /mydoc_add_and_remove_pages.html
       output: web, pdf
 
-    - title: YAML tutorial in the context of Jekyll
-      url: /mydoc_yaml_tutorial.html
+    - title: Drag And Drop
+      url: /mydoc_drag_and_drop.html
       output: web, pdf
 
-    - title: Tags
-      url: /mydoc_tags.html
+    - title: Help Text And Link
+      url: /mydoc_help_text_and_link.html
       output: web, pdf
 
-    - title: Series
-      url: /mydoc_series.html
+    - title: Basic Components
+      url: /mydoc_basic_components.html
       output: web, pdf
 
-  - title: Formatting
+    - title: Advanced Components
+      url: /mydoc_advanced_components.html
+      output: web, pdf
+
+    - title: Layout Template
+      url: /mydoc_layout_template.html
+      output: web, pdf
+
+  - title: Calendar
     output: web, pdf
 
     folderitems:
-    - title: Tooltips
-      url: /mydoc_adding_tooltips.html
-      output: web, pdf
-
-    - title: Alerts
-      url: /mydoc_alerts.html
-      output: web, pdf
-
-    - title: Icons
-      url: /mydoc_icons.html
-      output: web, pdf
-
-    - title: Images
-      url: /mydoc_images.html
-      output: web, pdf
-
-    - title: Code samples
-      url: /mydoc_code_samples.html
-      output: web, pdf
-
-    - title: Labels
-      url: /mydoc_labels.html
-      output: web, pdf
-
-    - title: Links
-      url: /mydoc_hyperlinks.html
-      output: web, pdf
-
-    - title: Navtabs
-      url: /mydoc_navtabs.html
-      output: web, pdf
-
-    - title: Tables
-      url: /mydoc_tables.html
-      output: web, pdf
-
-    - title: Syntax highlighting
-      url: /mydoc_syntax_highlighting.html
-      output: web, pdf
-
-    - title: Workflow maps
-      url: /mydoc_workflow_maps.html
-      output: web, pdf
-
-  - title: Handling reviews
-    output: web, pdf
-
-    folderitems:
-    - title: Commenting on files
-      url: /mydoc_commenting_on_files.html
-      output: web, pdf
-
-#    - title: Git collaboration
-#      url: /mydoc_git_collaboration
-#      output: web, pdf
-
-  - title: Publishing
-    output: web, pdf
-
-    folderitems:
-    - title: Build arguments
-      url: /mydoc_build_arguments.html
-      output: web, pdf
-
-    - title: Themes
-      url: /mydoc_themes.html
-      output: web, pdf
-
-    - title: Generating PDFs
-      url: /mydoc_generating_pdfs.html
-      output: web, pdf
-
-    - title: Help APIs and UI tooltips
-      url: /mydoc_help_api.html
-      output: web, pdf
-
-    - title: Search configuration
-      url: /mydoc_search_configuration.html
-      output: web, pdf
-
-    - title: iTerm profiles
-      url: /mydoc_iterm_profiles.html
-      output: web, pdf
-
-    - title: Pushing builds to server
-      url: /mydoc_push_build_to_server.html
-      output: web, pdf
-
-    - title: Publishing on Github Pages
-      url: /mydoc_publishing_github_pages.html
-      output: web, pdf
-
-  - title: Special layouts
-    output: web, pdf
-
-    folderitems:
-    - title: Knowledge-base layout
-      url: /mydoc_kb_layout.html
-      output: web, pdf
-
-    - title: Glossary layout
-      url: /mydoc_glossary.html
-      output: web, pdf
-
-    - title: FAQ layout
-      url: /mydoc_faq_layout.html
-      output: web, pdf
-
-    - title: Shuffle layout
-      url: /mydoc_shuffle.html
-      output: web, pdf
-
-  - title: Troubleshooting
-    output: web, pdf
-
-    folderitems:
-
-    - title: Troubleshooting
-      url: /mydoc_troubleshooting.html
-      output: web, pdf
-
-  - title: Tag archives
-    output: web
-    folderitems:
-
-    - title: Tag archives overview
-      url: /mydoc_tag_archives_overview.html
-      output: web
-
-      subfolders:
-      - title: Tag archive pages
-        output: web
-        subfolderitems:
-
-        - title: Formatting pages
-          url: /tag_formatting.html
-          output: web
-
-        - title: Navigation pages
-          url: /tag_navigation.html
-          output: web
-
-        - title: Content types pages
-          url: /tag_content_types.html
-          output: web
-
-        - title: Publishing pages
-          url: /tag_publishing.html
-          output: web
-
-        - title: Special layout pages
-          url: /tag_special_layouts.html
-          output: web
-
-        - title: Collaboration pages
-          url: /tag_collaboration.html
-          output: web
-
-        - title: Troubleshooting pages
-          url: /tag_troubleshooting.html
-          output: web
+      - title: Create New Event
+        url: /mydoc_create_new_event.html
+        output: web, pdf
