@@ -78,16 +78,16 @@ entries:
 
       - title: Calender
         output: web, pdf
-
         folderitems:
+
           - title: Creating Event
             url: /creating_event.html
             output: web, pdf
 
       - title: Reminder
         output: web, pdf
-
         folderitems:
+      
           - title: Setting up Reminder
             url: /reminder.html
             output: web, pdf

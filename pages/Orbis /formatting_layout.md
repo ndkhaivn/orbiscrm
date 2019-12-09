@@ -2,7 +2,7 @@
 title: Formatting the Layout
 sidebar: mydoc_sidebar
 permalink: formatting_layout.html
-folder: mydoc
+folder: Orbis
 ---
 
 {% include image.html file="formating_layout.png" %}

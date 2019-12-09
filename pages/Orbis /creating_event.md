@@ -4,7 +4,7 @@ sidebar: mydoc_sidebar
 permalink: creating_event.html
 folder: Orbis
 ---
-{% include image.html file="editing_pages_components.png" %}
+{% include image.html file="calender.png" %}
 
 ## 1. Adding New Event
 * To create an event spanning across multiples days, click and drag across the desired dates.

@@ -4,8 +4,7 @@ sidebar: mydoc_sidebar
 permalink: reminder.html
 folder: Orbis
 ---
-
-{% include custom/reminder.html %}
+{% include image.html file="reminder.png" %}
 
 ## Setting up a Reminder
 

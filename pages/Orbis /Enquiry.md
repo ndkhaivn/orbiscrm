@@ -1,7 +1,7 @@
 ---
 title: Enquiry View
 sidebar: mydoc_sidebar
-permalink: Enquiry.html
+permalink: enquiry.html
 folder: Orbis
 ---
 {% include image.html file="enquiry.png" %}

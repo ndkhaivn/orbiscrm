@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 permalink: dashboard.html
 folder: Orbis
 ---
-{% include image.html file="Dashboard.png" %}
+{% include image.html file="dashboard.png" %}
 
 ## 1. Business Status
 * User will be able to click on any of the 4 business status to view them in more detail. 
