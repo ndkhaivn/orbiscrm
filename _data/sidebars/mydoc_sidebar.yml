@@ -76,54 +76,19 @@ entries:
             output: web, pdf
 
 
-      - title: Reminder
-        output: web, pdf
-
-        folderitems:
-          - title: Create Account For Unregistered Client
-            url: /mydoc_create_account_for_unregistered_client.html
-            output: web, pdf
-
-          - title: Edit Client Details
-            url: /mydoc_edit_client_details.html
-            output: web, pdf
-
-          - title: Add Notes For The Client
-            url: /mydoc_add_notes_for_the_client.html
-            output: web, pdf
-
       - title: Calender
         output: web, pdf
 
         folderitems:
-          - title: Add And Remove Pages
-            url: /mydoc_add_and_remove_pages.html
+          - title: Creating Event
+            url: /creating_event.html
             output: web, pdf
 
-          - title: Drag And Drop
-            url: /mydoc_drag_and_drop.html
-            output: web, pdf
-
-          - title: Help Text And Link
-            url: /mydoc_help_text_and_link.html
-            output: web, pdf
-
-          - title: Basic Components
-            url: /mydoc_basic_components.html
-            output: web, pdf
-
-          - title: Advanced Components
-            url: /mydoc_advanced_components.html
-            output: web, pdf
-
-          - title: Layout Template
-            url: /mydoc_layout_template.html
-            output: web, pdf
-
-      - title: Note & Checklist
+      - title: Reminder
         output: web, pdf
 
         folderitems:
-          - title: Create New Event
-            url: /mydoc_create_new_event.html
+          - title: Setting up Reminder
+            url: /reminder.html
             output: web, pdf
+
