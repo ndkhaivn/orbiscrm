@@ -1,6 +1,6 @@
 ---
-title: FAQ layout
-permalink: mydoc_faq_layout.html
+title: mydoc_layout_template
+permalink: mydoc_layout_template.html
 sidebar: mydoc_sidebar
 tags: [special_layouts]
 keywords: frequently asked questions, FAQ, question and answer, collapsible sections, expand, collapse

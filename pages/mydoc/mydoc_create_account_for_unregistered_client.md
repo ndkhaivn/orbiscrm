@@ -1,5 +1,5 @@
 ---
-title: 10. Configure the build scripts
+title: mydoc_create_account_for_unregistered_client
 tags:
   - publishing
 keywords: "build scripts, generating outputs, building, publishing"
@@ -8,7 +8,7 @@ summary: "You need to customize the build scripts. These script automate the pub
 series: "Getting Started"
 weight: 10
 sidebar: mydoc_sidebar
-permalink: mydoc_build_scripts.html
+permalink: mydoc_create_account_for_unregistered_client.html
 folder: mydoc
 ---
 

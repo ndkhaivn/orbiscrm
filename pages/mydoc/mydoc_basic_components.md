@@ -1,5 +1,5 @@
 ---
-title: Content reuse
+title: mydoc_content_reuse
 tags: [single_sourcing]
 keywords: includes, conref, dita, transclusion, transclude, inclusion, reference
 last_updated: July 3, 2016

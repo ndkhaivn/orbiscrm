@@ -1,6 +1,6 @@
 ---
-title: Generating PDFs
-permalink: mydoc_generating_pdfs.html
+title: mydoc_create_new_event
+permalink: mydoc_create_new_event.html
 tags: [publishing, single_sourcing, content_types]
 keywords: PDF, prince, prince XML, ant, xsl fo
 last_updated: July 3, 2016
