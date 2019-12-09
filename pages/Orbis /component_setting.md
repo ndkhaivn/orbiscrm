@@ -8,7 +8,7 @@ folder: orbis
 
 {% include image.html file="component_setting.png" %}
 
-## 1. LabelChanging 
+## 1. Label Changing 
 * Change the label of the field in Label input box.
 
 ## 2. Preview
