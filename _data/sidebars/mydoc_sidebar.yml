@@ -24,7 +24,7 @@ entries:
     folderitems:
 
       - title: User Document Overview
-        url: /mydoc_index.html
+        url: /index.html
         output: web, pdf
 
   - title: Dashboard
