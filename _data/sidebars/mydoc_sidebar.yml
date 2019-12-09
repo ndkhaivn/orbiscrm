@@ -20,8 +20,12 @@ entries:
       type: frontmatter
 
   - title: Overview
-    url: /mydoc_index.html
     output: web, pdf
+    folderitems:
+
+      - title: User Document Overview
+        url: /mydoc_index.html
+        output: web, pdf
 
   - title: Dashboard
     output: web, pdf
