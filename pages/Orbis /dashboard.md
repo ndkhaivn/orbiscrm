@@ -8,11 +8,14 @@ folder: Orbis
 {% include image.html file="dashboard.png" %}
 
 ## 1. Business Status
-* User will be able to click on any of the 4 business status to view them in more detail. 
+* Click on any of the 4 business status to view them in more detail. 
 
 ## 2. Application 
 * Visual representation of application status
 
-## 3. Pending Tasks
+## 3. Business Statistic
+* View the chart to compare the Business Statistics between current month and previous month. 
+
+## 4. Pending Tasks
 * A reminder table of what tasks are yet to be completed, which can be checked by clicking on them 
 

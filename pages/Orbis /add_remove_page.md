@@ -7,10 +7,10 @@ folder: Orbis
 {% include image.html file="adding_removing.png" %}
 
 ## 1. Add
-* To add a new page to your form, click on the {% include image.html file="add_page.png" %} button 
+* Click【Add Page】button to add a new page to your form.(Specify the page title){% include image.html file="add_page.png" %}
 
 ## 2. Remove
-* To remove a page from the form, hover over the Page and click on the {% include image.html file="remove_page.png" %} button 
+* Hover over the Page and Click【Delete】button to remove the page from the form.  {% include image.html file="remove_page.png" %} button 
 
 
 

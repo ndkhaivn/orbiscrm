@@ -8,13 +8,13 @@ folder: Orbis
 {% include image.html file="formating_layout.png" %}
 
 ## 1. Columns
-* Splitting into multiple columns, each column can contain components
+* Split into multiple columns, each column can contain components
 
 ## 2. Field Set
-* Grouping the fields into one section.
+* Group the fields into one section.
 
 ## 3. Table
-* Splitting into multiple rows and columns
+* Split into multiple rows and columns
 
 ## 4. Tabs
-* Splitting into different tabs
+* Split into different tabs

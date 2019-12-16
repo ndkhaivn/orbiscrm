@@ -8,4 +8,5 @@ folder: Orbis
 
 ## Editing Pages and Components
 
-* To customise a page layout or component, hover over the page and click on the setting icon to open the setting pop-up
+*  Hover over the page and click【Setting】icon to open the setting pop-up and customise a page layout or component
+

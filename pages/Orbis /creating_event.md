@@ -7,8 +7,9 @@ folder: Orbis
 {% include image.html file="calender.png" %}
 
 ## 1. Adding New Event
-* To create an event spanning across multiples days, click and drag across the desired dates.
-* To create an event with specific time, switch to Week or Day view, click and drag on desired time.
+* Click and drag across the desired dates to create an event spanning across multiples days.
+* Click and drag on desired time to create an event with specific time, switch to Week or Day view.
 
 ## 2. Link to Client
-* Select a client to link with the event. The selected client will get an invitation for the created event.
+* Select a client to link with the event. 
+* The selected client will get an invitation for the created event.

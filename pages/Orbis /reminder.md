@@ -8,5 +8,5 @@ folder: Orbis
 
 ## Setting up a Reminder
 
-1. Click on the bell  icon (bell) to set a reminder for a checklist
+1. Click【Bell】icon to set a reminder for a checklist
 2. A pop-up will appear and require a due date and a priority level (Low, Medium, High)
