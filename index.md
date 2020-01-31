@@ -14,7 +14,6 @@ Type keywords to find answers
 You can also browse the features below to find what you are looking for
 
 ## Frequently Asked Questions
-
 * #### Dashboard / Report
   * ##### How do I add a new task?
   * ##### How do I customize date range? 
@@ -70,7 +69,6 @@ You can also browse the features below to find what you are looking for
   * ##### How do I add/edit a【date picker】component?
   * ##### How do I make the day before month in component? 
 
-
-## Staff Management
+* #### Staff Management
   * ##### How do I add a new staff?
   * ##### How do I deactivate/reactivate a staff?
