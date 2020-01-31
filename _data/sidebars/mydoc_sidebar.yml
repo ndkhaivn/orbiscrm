@@ -4,35 +4,58 @@ entries:
   - title: sidebar
     #  product: Jekyll Doc Theme
     #  version: 6.0
-    folders:
-      - title:
-        output: pdf
-        type: frontmatter
-        folderitems:
-          - title:
-            url: /titlepage.html
-            output: pdf
-            type: frontmatter
-          - title:
-            url: /tocpage.html
-            output: pdf
-            type: frontmatter
+#    folders:
+#      - title:
+#        output: pdf
+#        type: frontmatter
+#        folderitems:
+#          - title:
+#            url: /titlepage.html
+#            output: pdf
+#            type: frontmatter
+#          - title:
+#            url: /tocpage.html
+#            output: pdf
+#            type: frontmatter
       - title: Overview
-        output: web, pdf
         url: /index.html
+        output: web, pdf
       - title: Dashboard / Report
+        url: /dashboard.html
+        output: web, pdf
+      - title: Calendar
+        url: /creating_event.html
+        output: web, pdf
+      - title: Leads
+        output: web, pdf
+      - title: Requiries
+        url: /enquiry.html
+        output: web, pdf
+      - title: Requiries
+        output: web, pdf
+      - title: Registered Clients
+        url: /client_profile.html
+        output: web, pdf
+      - title: Applications
         output: web, pdf
         folderitems:
-          - title: Dashboard
-            url: /dashboard.html
+          - title: Progress
+            url: /reminder.html
             output: web, pdf
-          - title: Enquiries View
-            url: /enquiry.html
+          - title: Form
+            url: /reminder.html
             output: web, pdf
-          - title: Client Profile
-            url: /client_profile.html
+          - title: Note
+            url: /reminder.html
             output: web, pdf
-      - title: Calendar
+          - title: Invoices
+            url: /reminder.html
+            output: web, pdf
+      - title: Email
+        output: web, pdf
+      - title: Visa Type
+        output: web, pdf
+      - title: Form Builder
         output: web, pdf
         folderitems:
           - title: Add & Remove Pages
@@ -60,50 +83,6 @@ entries:
           - title: Editing Pages & Components
             url: / editing_pages_components.html
             output: web, pdf
-
-
-      - title: Leads
-        output: web, pdf
-        folderitems:
-
-          - title: Creating Event
-            url: /creating_event.html
-            output: web, pdf
-
-      - title: Requiries
-        output: web, pdf
-        folderitems:
-
-          - title: Setting up Reminder
-            url: /reminder.html
-            output: web, pdf
-
-      - title: Requiries
-        output: web, pdf
-
-      - title: Registered Clients
-        output: web, pdf
-      - title: Applications
-        output: web, pdf
-        folderitems:
-          - title: Progress
-            url: /reminder.html
-            output: web, pdf
-          - title: Form
-            url: /reminder.html
-            output: web, pdf
-          - title: Note
-            url: /reminder.html
-            output: web, pdf
-          - title: Invoices
-            url: /reminder.html
-            output: web, pdf
-      - title: Email
-        output: web, pdf
-      - title: Visa Type
-        output: web, pdf
-      - title: Form Builder
-        output: web, pdf
       - title: Staff Management
         output: web, pdf
 
