@@ -2,7 +2,7 @@
 title: Dashboard/Report
 summary: ""
 sidebar: mydoc_sidebar
-permalink: dashboard.html
+permalink: dashboard/report.html
 folder: Orbis
 ---
 # How do I add a new task?
