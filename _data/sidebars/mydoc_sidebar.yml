@@ -27,16 +27,19 @@ entries:
         url: /creating_event.html
         output: web, pdf
       - title: Leads
+        url: /creating_event.html
         output: web, pdf
       - title: Requiries
         url: /enquiry.html
         output: web, pdf
       - title: Requiries
+        url: /creating_event.html
         output: web, pdf
       - title: Registered Clients
         url: /client_profile.html
         output: web, pdf
       - title: Applications
+        url: /creating_event.html
         output: web, pdf
         folderitems:
           - title: Progress
@@ -52,10 +55,13 @@ entries:
             url: /reminder.html
             output: web, pdf
       - title: Email
+        url: /creating_event.html
         output: web, pdf
       - title: Visa Type
+        url: /creating_event.html
         output: web, pdf
       - title: Form Builder
+        url: /creating_event.html
         output: web, pdf
         folderitems:
           - title: Add & Remove Pages
@@ -84,6 +90,7 @@ entries:
             url: / editing_pages_components.html
             output: web, pdf
       - title: Staff Management
+        url: /creating_event.html
         output: web, pdf
 
 
