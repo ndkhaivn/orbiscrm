@@ -5,7 +5,6 @@ entries:
     #  product: Jekyll Doc Theme
     #  version: 6.0
     folders:
-
       - title:
         output: pdf
         type: frontmatter
@@ -18,43 +17,30 @@ entries:
             url: /tocpage.html
             output: pdf
             type: frontmatter
-
       - title: Overview
         output: web, pdf
-        folderitems:
-
-          - title: User Document Overview
-            url: /index.html
-            output: web, pdf
-
-      - title: Workspace
+        url: /index.html
+      - title: Dashboard / Report
         output: web, pdf
         folderitems:
-
           - title: Dashboard
             url: /dashboard.html
             output: web, pdf
-
           - title: Enquiries View
             url: /enquiry.html
             output: web, pdf
-
           - title: Client Profile
             url: /client_profile.html
             output: web, pdf
-
-      - title: Form Builder
+      - title: Calendar
         output: web, pdf
         folderitems:
-
           - title: Add & Remove Pages
             url: /add_remove_page.html
             output: web, pdf
-
           - title: Adding Components
             url: /adding_components.html
             output: web, pdf
-
           - title: Component Setting
             url: /component_setting.html
             output: web, pdf
@@ -76,7 +62,7 @@ entries:
             output: web, pdf
 
 
-      - title: Calender
+      - title: Leads
         output: web, pdf
         folderitems:
 
@@ -84,11 +70,48 @@ entries:
             url: /creating_event.html
             output: web, pdf
 
-      - title: Reminder
+      - title: Requiries
         output: web, pdf
         folderitems:
 
           - title: Setting up Reminder
             url: /reminder.html
             output: web, pdf
+
+      - title: Requiries
+        output: web, pdf
+
+      - title: Registered Clients
+        output: web, pdf
+      - title: Applications
+        output: web, pdf
+        folderitems:
+          - title: Progress
+            url: /reminder.html
+            output: web, pdf
+          - title: Form
+            url: /reminder.html
+            output: web, pdf
+          - title: Note
+            url: /reminder.html
+            output: web, pdf
+          - title: Invoices
+            url: /reminder.html
+            output: web, pdf
+      - title: Email
+        output: web, pdf
+      - title: Visa Type
+        output: web, pdf
+      - title: Form Builder
+        output: web, pdf
+      - title: Staff Management
+        output: web, pdf
+
+
+
+
+
+
+
+
 
