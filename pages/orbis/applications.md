@@ -1,7 +1,7 @@
 ---
 title: Applications
 permalink: applications.html
-sidebar: mydoc_sidebar
+sidebar: orbis_sidebar
 tags: [special_layouts]
 keywords: applications, progress, form, note, invoices
 last_updated: 02 FEB 20

@@ -1,7 +1,7 @@
 ---
 title: Visa Type
 permalink: visa_type.html
-sidebar: mydoc_sidebar
+sidebar: orbis_sidebar
 tags: [special_layouts]
 keywords: visa, visa type, type
 last_updated: 02 FEB 20

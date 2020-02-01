@@ -1,7 +1,7 @@
 ---
 title: Staff Management
 permalink: staff_management.html
-sidebar: mydoc_sidebar
+sidebar: orbis_sidebar
 tags: [special_layouts]
 keywords: staff
 last_updated: 02 FEB 20

@@ -1,7 +1,7 @@
 ---
 title: Form Builder
 permalink: form_builder.html
-sidebar: mydoc_sidebar
+sidebar: orbis_sidebar
 tags: [special_layouts]
 keywords: form, build, 
 last_updated: 02 FEB 20

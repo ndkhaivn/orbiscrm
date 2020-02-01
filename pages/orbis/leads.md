@@ -1,7 +1,7 @@
 ---
 title: Leads
 permalink: leads.html
-sidebar: mydoc_sidebar
+sidebar: orbis_sidebar
 tags: [special_layouts]
 keywords: lead, leads
 last_updated: 02 FEB 20

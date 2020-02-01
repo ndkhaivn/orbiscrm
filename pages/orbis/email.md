@@ -1,7 +1,7 @@
 ---
 title: Email
 permalink: email.html
-sidebar: mydoc_sidebar
+sidebar: orbis_sidebar
 tags: [special_layouts]
 keywords: email
 last_updated: 02 FEB 20

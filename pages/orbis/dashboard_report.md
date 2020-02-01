@@ -1,7 +1,7 @@
 ---
 title: Dashboard / Report
 permalink: dashboard_report.html
-sidebar: mydoc_sidebar
+sidebar: orbis_sidebar
 tags: [special_layouts]
 keywords: dashboard, report
 last_updated: 02 FEB 20

@@ -1,7 +1,7 @@
 ---
 title: Registered Client
 permalink: registered_client.html
-sidebar: mydoc_sidebar
+sidebar: orbis_sidebar
 tags: [special_layouts]
 keywords: registered, client
 last_updated: 02 FEB 20
