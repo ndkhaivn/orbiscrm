@@ -1,0 +1,75 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Orbis FAQ
+  product: Orbis FAQ
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+## Overview
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: Get started
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+## Features
+  - title: Features
+    output: web, pdf
+    folderitems:
+
+    - title: Dashboard / Report
+      url: /dashboard_report.html
+      output: web, pdf
+
+    - title: Calendar
+      url: /calendar.html
+      output: web, pdf
+
+    - title: Leads
+      url: /leads.html
+      output: web, pdf
+
+    - title: Requiries
+      url: /requiries.html
+      output: web, pdf
+
+    - title: Registered Clients
+      url: /registered_clients.html
+      output: web, pdf
+
+    - title: Applications
+      url: /applications.html
+      output: web, pdf
+
+    - title: Email
+      url: /email.html
+      output: web, pdf
+
+    - title: Visa Type
+      url: /visa_type.html
+      output: web, pdf
+
+    - title: Forms
+      url: /forms.html
+      output: web, pdf
+
+    - title: Staff Management
+      url: /staff_management.html
+      output: web, pdf
