@@ -5,6 +5,7 @@ entries:
     #  product: Jekyll Doc Theme
     #  version: 6.0
     folders:
+
       - title:
         output: pdf
         type: frontmatter
@@ -17,24 +18,31 @@ entries:
             url: /tocpage.html
             output: pdf
             type: frontmatter
+
       - title: Overview
         url: /index.html
         output: web, pdf
+
       - title: Dashboard / Report
         url: /dashboard_report.html
         output: web, pdf
+
       - title: Calendar
         url: /calendar.html
         output: web, pdf
+
       - title: Leads
         url: /leads.html
         output: web, pdf
+
       - title: Enquiries
         url: /enquiries.html
         output: web, pdf
+
       - title: Registered Clients
         url: /registered_clients.html
         output: web, pdf
+
       - title: Applications
         url: /applications.html
         output: web, pdf
@@ -51,12 +59,15 @@ entries:
           - title: Invoices
             url: /applications.html
             output: web, pdf
+
       - title: Email
         url: /email.html
         output: web, pdf
+
       - title: Visa Type
         url: /visa_type.html
         output: web, pdf
+
       - title: Form Builder
         url: /form_builder.html
         output: web, pdf
@@ -82,6 +93,7 @@ entries:
           - title: Editing Pages & Components
             url: / form_builder.html
             output: web, pdf
+
       - title: Staff Management
         url: /staff_management.html
         output: web, pdf
