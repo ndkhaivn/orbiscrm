@@ -48,7 +48,7 @@ folder: orbis
                                 </a>
                             </h4>
                         </div>
-                        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+                        <div id="collapseThree" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 CCC
                             </div>
@@ -63,7 +63,7 @@ folder: orbis
                                 </a>
                             </h4>
                         </div>
-                        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+                        <div id="collapseFour" class="panel-collapse collapse noCrossRef">
                             <div class="panel-body">
                                 DD
                             </div>
