@@ -25,70 +25,66 @@ entries:
           url: /dashboard_report.html
           output: web, pdf
         - title: Calendar
-          url: /creating_event.html
+          url: /calendar.html
           output: web, pdf
         - title: Leads
-          url: /creating_event.html
+          url: /leads.html
           output: web, pdf
         - title: Enquiries
           url: /enquiries.html
           output: web, pdf
         - title: Registered Clients
-          url: /client_profile.html
+          url: /registered_clients.html
           output: web, pdf
         - title: Applications
-          url: /creating_event.html
+          url: /applications.html
           output: web, pdf
           folderitems:
             - title: Progress
-              url: /reminder.html
+              url: /applications.html
               output: web, pdf
             - title: Form
-              url: /reminder.html
+              url: /applications.html
               output: web, pdf
             - title: Note
-              url: /reminder.html
+              url: /applications.html
               output: web, pdf
             - title: Invoices
-              url: /reminder.html
+              url: /applications.html
               output: web, pdf
         - title: Email
-          url: /creating_event.html
+          url: /email.html
           output: web, pdf
         - title: Visa Type
-          url: /creating_event.html
+          url: /visa_type.html
           output: web, pdf
         - title: Form Builder
-          url: /creating_event.html
+          url: /form_builder.html
           output: web, pdf
           folderitems:
             - title: Add & Remove Pages
-              url: /add_remove_page.html
+              url: /form_builder.html
               output: web, pdf
             - title: Adding Components
-              url: /adding_components.html
+              url: /form_builder.html
               output: web, pdf
             - title: Component Setting
-              url: /component_setting.html
+              url: /form_builder.html
               output: web, pdf
-
             - title: Basic Components
-              url: /basic_components.html
+              url: /form_builder.html
               output: web, pdf
-
             - title: Advanced Components
-              url: /advanced_components.html
+              url: /form_builder.html
               output: web, pdf
-
             - title: Formatting the Layout
-              url: / formatting_layout.html
+              url: / form_builder.html
               output: web, pdf
-
             - title: Editing Pages & Components
-              url: / editing_pages_components.html
+              url: / form_builder.html
               output: web, pdf
         - title: Staff Management
-          url: /creating_event.html
+          url: /staff_management.html
           output: web, pdf
 
 

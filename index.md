@@ -29,7 +29,6 @@ permalink: index.html
     - ##### How do I edit/save information for a registered client?
     - ##### How do I add/edit a note for a registered client?
     - ##### How do I add a new application for a registered client?
-    - ##### View All Questions
 - #### Applications
     - ##### How do I add/edit the reference number for an application?
     - ##### How do I change the status of an application?
@@ -38,18 +37,15 @@ permalink: index.html
         - ###### Form
         - ###### Note
         - ###### Invoices
-    - ##### View All Questions
 - #### Email
     - ##### How do I edit/save a field (footer) of emails?
     - ##### How do I add/edit/delete an email template?
     - ##### How do I insert client information inside an email template?
     - ##### How do I send an email to a client?
     - ##### How do I preview an email?
-    - ##### View All Questions
 - #### Visa Type
     - ##### How do I add/edit/(delete?) a visa type?
-    - ##### View All Questions
-- #### Form Builders
+- #### Form Builder
     - ##### How do I add/rename/duplicate/test/delete a form?
     - ##### How do I add/duplicate/remove a component in a form?
     - ##### How do I make a component become compulsory (required)/ unique?
@@ -60,8 +56,6 @@ permalink: index.html
     - ##### How do I add/edit an email component?
     - ##### How do I add/edit a【date picker】component?
     - ##### How do I make the day before month in component? 
-    - ##### View All Questions
 - #### Staff Management
     - ##### How do I add a new staff?
     - ##### How do I deactivate/reactivate a staff?
-    - ##### View All Questions
