@@ -1,10 +1,19 @@
 ---
-title: Dashboard/Report
+title: Dashboard / Report
+tags: [formatting]
+keywords: dashboard, report, add, task, pending, progress, priority, reminder, due date, date range, business status, business statistic
+last_updated: 01/FEB/2020
 summary: ""
 sidebar: mydoc_sidebar
-permalink: dashboard/report.html
+permalink: dashboard_report.html
 folder: Orbis
 ---
+
+* #### Dashboard / Report
+  * ##### How do I add a new task?
+  * ##### How do I customize date range? 
+  
+  
 # How do I add a new task?
 
 # How do I customize date range?

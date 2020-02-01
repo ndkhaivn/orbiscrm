@@ -1,7 +1,7 @@
 ---
 title: Leads View
 sidebar: mydoc_sidebar
-permalink: enquiry.html
+permalink: enquiries.html
 folder: Orbis
 ---
 {% include image.html file="enquiry.png" %}
