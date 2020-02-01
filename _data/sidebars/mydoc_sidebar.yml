@@ -22,7 +22,7 @@ entries:
           url: /index.html
           output: web, pdf
         - title: Dashboard / Report
-          url: /dashboard.html
+          url: /dashboard_report.html
           output: web, pdf
         - title: Calendar
           url: /creating_event.html
@@ -30,11 +30,8 @@ entries:
         - title: Leads
           url: /creating_event.html
           output: web, pdf
-        - title: Requiries
-          url: /enquiry.html
-          output: web, pdf
-        - title: Requiries
-          url: /creating_event.html
+        - title: Enquiries
+          url: /enquiries.html
           output: web, pdf
         - title: Registered Clients
           url: /client_profile.html
