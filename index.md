@@ -1,9 +1,10 @@
 ---
 title: "Getting started with the CRM of Obris"
-keywords: sample homepage
+keywords: homepage
+last_updated: 01/FEB/2020
+summary: ""
 sidebar: mydoc_sidebar
 permalink: index.html
-
 ---
 ## How can we help you?
     This document is the user guide for the Orbis Advisor’s online CRM. It provides instructions intended to assist the user in using the system, and also guidance for any sort of queries or issues the user may run into. It is recommended that you read this user guide carefully before use.
