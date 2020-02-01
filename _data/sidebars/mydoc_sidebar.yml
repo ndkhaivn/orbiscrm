@@ -4,94 +4,95 @@ entries:
   - title: sidebar
     #  product: Jekyll Doc Theme
     #  version: 6.0
-#    folders:
-#      - title:
-#        output: pdf
-#        type: frontmatter
-#        folderitems:
-#          - title:
-#            url: /titlepage.html
-#            output: pdf
-#            type: frontmatter
-#          - title:
-#            url: /tocpage.html
-#            output: pdf
-#            type: frontmatter
-      - title: Overview
-        url: /index.html
-        output: web, pdf
-      - title: Dashboard / Report
-        url: /dashboard.html
-        output: web, pdf
-      - title: Calendar
-        url: /creating_event.html
-        output: web, pdf
-      - title: Leads
-        url: /creating_event.html
-        output: web, pdf
-      - title: Requiries
-        url: /enquiry.html
-        output: web, pdf
-      - title: Requiries
-        url: /creating_event.html
-        output: web, pdf
-      - title: Registered Clients
-        url: /client_profile.html
-        output: web, pdf
-      - title: Applications
-        url: /creating_event.html
-        output: web, pdf
+    folders:
+      - title:
+        output: pdf
+        type: frontmatter
         folderitems:
-          - title: Progress
-            url: /reminder.html
-            output: web, pdf
-          - title: Form
-            url: /reminder.html
-            output: web, pdf
-          - title: Note
-            url: /reminder.html
-            output: web, pdf
-          - title: Invoices
-            url: /reminder.html
-            output: web, pdf
-      - title: Email
-        url: /creating_event.html
-        output: web, pdf
-      - title: Visa Type
-        url: /creating_event.html
-        output: web, pdf
-      - title: Form Builder
-        url: /creating_event.html
-        output: web, pdf
-        folderitems:
-          - title: Add & Remove Pages
-            url: /add_remove_page.html
-            output: web, pdf
-          - title: Adding Components
-            url: /adding_components.html
-            output: web, pdf
-          - title: Component Setting
-            url: /component_setting.html
-            output: web, pdf
+          - title:
+            url: /titlepage.html
+            output: pdf
+            type: frontmatter
+          - title:
+            url: /tocpage.html
+            output: pdf
+            type: frontmatter
+      folderitems:
+        - title: Overview
+          url: /index.html
+          output: web, pdf
+        - title: Dashboard / Report
+          url: /dashboard.html
+          output: web, pdf
+        - title: Calendar
+          url: /creating_event.html
+          output: web, pdf
+        - title: Leads
+          url: /creating_event.html
+          output: web, pdf
+        - title: Requiries
+          url: /enquiry.html
+          output: web, pdf
+        - title: Requiries
+          url: /creating_event.html
+          output: web, pdf
+        - title: Registered Clients
+          url: /client_profile.html
+          output: web, pdf
+        - title: Applications
+          url: /creating_event.html
+          output: web, pdf
+          folderitems:
+            - title: Progress
+              url: /reminder.html
+              output: web, pdf
+            - title: Form
+              url: /reminder.html
+              output: web, pdf
+            - title: Note
+              url: /reminder.html
+              output: web, pdf
+            - title: Invoices
+              url: /reminder.html
+              output: web, pdf
+        - title: Email
+          url: /creating_event.html
+          output: web, pdf
+        - title: Visa Type
+          url: /creating_event.html
+          output: web, pdf
+        - title: Form Builder
+          url: /creating_event.html
+          output: web, pdf
+          folderitems:
+            - title: Add & Remove Pages
+              url: /add_remove_page.html
+              output: web, pdf
+            - title: Adding Components
+              url: /adding_components.html
+              output: web, pdf
+            - title: Component Setting
+              url: /component_setting.html
+              output: web, pdf
 
-          - title: Basic Components
-            url: /basic_components.html
-            output: web, pdf
+            - title: Basic Components
+              url: /basic_components.html
+              output: web, pdf
 
-          - title: Advanced Components
-            url: /advanced_components.html
-            output: web, pdf
+            - title: Advanced Components
+              url: /advanced_components.html
+              output: web, pdf
 
-          - title: Formatting the Layout
-            url: / formatting_layout.html
-            output: web, pdf
+            - title: Formatting the Layout
+              url: / formatting_layout.html
+              output: web, pdf
 
-          - title: Editing Pages & Components
-            url: / editing_pages_components.html
-            output: web, pdf
-      - title: Staff Management
-        url: /creating_event.html
-        output: web, pdf
+            - title: Editing Pages & Components
+              url: / editing_pages_components.html
+              output: web, pdf
+        - title: Staff Management
+          url: /creating_event.html
+          output: web, pdf
 
 
 
