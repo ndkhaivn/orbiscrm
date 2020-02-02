@@ -25,7 +25,7 @@ entries:
     folderitems:
 
     - title: Get started
-      url: /index.html
+      url: /orbiscrm.faq.html
       output: web, pdf
       type: homepage
 
@@ -35,41 +35,41 @@ entries:
     folderitems:
 
     - title: Dashboard / Report
-      url: /dashboard_report.html
+      url: /orbiscrm.faq.dashboard_report.html
       output: web, pdf
 
     - title: Calendar
-      url: /calendar.html
+      url: /orbiscrm.faq.calendar.html
       output: web, pdf
 
     - title: Leads
-      url: /leads.html
+      url: /orbiscrm.faq.leads.html
       output: web, pdf
 
     - title: Requiries
-      url: /requiries.html
+      url: /orbiscrm.faq.requiries.html
       output: web, pdf
 
     - title: Registered Clients
-      url: /registered_clients.html
+      url: /orbiscrm.faq.registered_clients.html
       output: web, pdf
 
     - title: Applications
-      url: /applications.html
+      url: /orbiscrm.faq.applications.html
       output: web, pdf
 
     - title: Email
-      url: /email.html
+      url: /orbiscrm.faq.email.html
       output: web, pdf
 
     - title: Visa Type
-      url: /visa_type.html
+      url: /orbiscrm.faq.visa_type.html
       output: web, pdf
 
     - title: Forms
-      url: /forms.html
+      url: /orbiscrm.faq.forms.html
       output: web, pdf
 
     - title: Staff Management
-      url: /staff_management.html
+      url: /orbiscrm.faq.staff_management.html
       output: web, pdf
