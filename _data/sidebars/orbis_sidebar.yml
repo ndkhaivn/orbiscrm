@@ -66,8 +66,8 @@ entries:
       url: /orbiscrm.faq.visa_type.html
       output: web, pdf
 
-    - title: Forms
-      url: /orbiscrm.faq.forms.html
+    - title: Form Builder
+      url: /orbiscrm.faq.form_builder.html
       output: web, pdf
 
     - title: Staff Management
