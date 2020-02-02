@@ -18,7 +18,11 @@ folder: orbiscrm.faq
         </div>
         <div id="collapseOne" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                <ul>
+                    <li>
+                        Click【Edit】button to change client details.
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
@@ -33,7 +37,11 @@ folder: orbiscrm.faq
         </div>
         <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                BBBBBBB
+                <ul>
+                    <li>
+                        Click【+ New Note】button to create a new note
+                    </li>
+                </ul>
             </div>
         </div>
     </div>
@@ -49,6 +57,21 @@ folder: orbiscrm.faq
         <div id="collapseThree" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 CC
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse4">
+                What shows in a Registered Client page
+                </a>
+            </h4>
+        </div>
+        <div id="collapse4" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <img src="/images/registered_client.png" alt="Registered Client" height="42" width="42"><br>
             </div>
         </div>
     </div>

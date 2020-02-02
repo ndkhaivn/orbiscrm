@@ -11,6 +11,21 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseZero">
+                    What shows on the Calendar page?
+                </a>
+            </h4>
+        </div>
+        <div id="collapseZero" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <img src="/images/calender.png" alt="Calendar" height="42" width="42"><br>            
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
                     How do I add a new event (more quickly) by dragging?
                 </a>
@@ -18,7 +33,10 @@ folder: orbiscrm.faq
         </div>
         <div id="collapseOne" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                <ol>
+                    <li>Click and drag across the desired dates to create an event spanning across multiples days.</li>
+                    <li>Click and drag on desired time to create an event with specific time, switch to Week or Day view.</li>
+                </ol>
             </div>
         </div>
     </div>
@@ -33,7 +51,10 @@ folder: orbiscrm.faq
         </div>
         <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                BBBBBBB
+                <ol>
+                    <li>Select a client to link with the event.</li>
+                    <li>The selected client will get an invitation for the created event.</li>
+                </ol>
             </div>
         </div>
     </div>

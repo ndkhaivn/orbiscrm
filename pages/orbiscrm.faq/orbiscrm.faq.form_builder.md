@@ -158,6 +158,49 @@ folder: orbiscrm.faq
         </div>
     </div>
     <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse11">
+                What shows in the Form Builder?
+                </a>
+            </h4>
+        </div>
+        <div id="collapse11" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <ol>
+                    <li>
+                        Basic Components
+                    </li>
+                    <li>                        
+                        Advanced Components
+                    </li>
+                    <li>
+                        Layout
+                        <ol>
+                            <li>
+                                Columns
+                                <ul><li>Split into multiple columns, each column can contain components</li></ul>
+                            </li>
+                            <li>
+                                Field Set
+                                <ul><li>Group the fields into one section.</li></ul>
+                            </li>
+                            <li>
+                                Table
+                                <ul><li>Split into multiple rows and columns</li></ul>
+                            </li>
+                            <li>
+                                Tabs
+                                <ul><li>Split into different tabs</li></ul>
+                            </li>
+                        </ol>
+                    </li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
 

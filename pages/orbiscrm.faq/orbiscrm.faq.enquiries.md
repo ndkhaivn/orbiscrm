@@ -18,7 +18,7 @@ folder: orbiscrm.faq
         </div>
         <div id="collapseOne" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                Click【Create Account】button to create a account for unregistered client.(Only applicable to unregistered clients)
             </div>
         </div>
     </div>
@@ -64,6 +64,21 @@ folder: orbiscrm.faq
         <div id="collapseFour" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 DD
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse5">
+                What shows in an Enquiry page?
+                </a>
+            </h4>
+        </div>
+        <div id="collapse5" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                EE
             </div>
         </div>
     </div>

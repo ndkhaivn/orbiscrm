@@ -42,16 +42,48 @@ folder: orbiscrm.faq
         <div class="panel-heading">
             <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                Handle Application
+                    What shows in the Application page?
                 </a>
             </h4>
         </div>
         <div id="collapseThree" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                  - Progress
-                  - Form
-                  - Note
-                  - Invoices
+                <ul>
+                    <li>
+                        Progress
+                    </li>
+                    <li>
+                        Form
+                    </li>
+                    <li>
+                        Note
+                    </li>
+                    <li>
+                        Invoices
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse4">
+                    How do I set up a reminder for a progress(task) in an application?
+                </a>
+            </h4>
+        </div>
+        <div id="collapse4" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <ol>
+                    <li>
+                        Click【Bell】icon to set a reminder for a checklist
+                    </li>
+                    <li>
+                        A pop-up will appear and require a due date and a priority level (Low, Medium, High)
+                    </li>
+                </ol>
             </div>
         </div>
     </div>
