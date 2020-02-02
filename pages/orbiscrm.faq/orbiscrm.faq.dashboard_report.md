@@ -49,15 +49,17 @@ folder: orbis
         </div>
         <div id="collapse3" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                {% include image.html file="dashboard.png"%}
-                - Business Status
-                    - Click on any of the 4 business status to view them in more detail. 
-                - Application 
-                    - Visual representation of application status
-                - Business Statistic
-                    - View the chart to compare the Business Statistics between current month and previous month. 
-                - Pending Tasks
-                    - A reminder table of what tasks are yet to be completed, which can be checked by clicking on them 
+                <img src="/images/dashboard.png" alt="Dashboard" height="42" width="42"><br>
+                <ul>
+                    <li>Business Status</li>
+                        <ul><li>Click on any of the 4 business status to view them in more detail. </li></ul>
+                    <li>Application</li>
+                        <ul><li>Visual representation of application status</li></ul>
+                    <li>Business Statistic</li>
+                        <ul><li>View the chart to compare the Business Statistics between current month and previous month.</li></ul>
+                    <li>Pending Tasks</li>
+                        <ul><li>A reminder table of what tasks are yet to be completed, which can be checked by clicking on them </li></ul>
+                </ul>
             </div>
         </div>
     </div>
