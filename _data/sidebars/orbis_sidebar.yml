@@ -46,8 +46,8 @@ entries:
       url: /orbiscrm.faq.leads.html
       output: web, pdf
 
-    - title: Requiries
-      url: /orbiscrm.faq.requiries.html
+    - title: Enquiries
+      url: /orbiscrm.faq.enquiries.html
       output: web, pdf
 
     - title: Registered Clients
