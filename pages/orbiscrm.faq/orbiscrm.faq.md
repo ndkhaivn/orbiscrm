@@ -14,9 +14,9 @@ folder: orbis
         <div class="col-md-6 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
-                    <b>
-                        <a class="fa-black-tie" href="orbiscrm.faq.dashboard_report.html" rel="noopener">Dashboard / Report</a>
-                    </b>   
+                    <h4>
+                        Dashboard / Report
+                    </h4>   
                 </div>
                 <div class="panel-body">
                     <p>
