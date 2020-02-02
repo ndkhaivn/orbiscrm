@@ -1,13 +1,73 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
-keywords: sample homepage
+title: "Getting started with the User Instruction for Orbis"
+keywords: homepage, index, overview, intrucduction
 tags: [getting_started]
 sidebar: orbis_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
 ---
 
-{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
+{% include note.html content="You can also browse the topics above to find what you are looking for." %}
+
+## Dashboard / Report
+* [How do I add a new task?][mydoc_install_jekyll_on_windows]
+* [How do I customize date range?][obris_dashboard_report] 
+
+* [Install Jekyll on Mac][mydoc_install_jekyll_on_mac]
+* [Install Jekyll on Windows][mydoc_install_jekyll_on_windows]
+* [Install Jekyll on Windows][dashboard_report]
+
+## Calendar
+* How do I add a new event (more quickly) by dragging?
+* How do I link an event to a client?
+
+## Leads
+* How do I close a lead?
+* How do I reopen a closed lead?
+* How do I add/edit a note of a lead?
+
+## Requiries
+* How do I create an account for client from an enquiry?
+* How do I edit/save information in an enquiry?
+* How do I add/edit a note of an enquiry?
+* How do I add a new application in an enquiry?
+
+## Registered Clients
+* How do I edit/save information for a registered client?
+* How do I add/edit a note for a registered client?
+* How do I add a new application for a registered client?
+
+## Applications
+* How do I add/edit the reference number for an application?
+* How do I change the status of an application?
+* Handle Application
+
+## Email
+* How do I edit/save a field (footer) of emails?
+* How do I add/edit/delete an email template?
+* How do I insert client information inside an email template?
+* How do I send an email to a client?
+* How do I preview an email?
+
+## Visa Type
+* How do I add/edit/(delete?) a visa type?
+
+## Forms
+* How do I add/rename/duplicate/test/delete a form?
+* How do I add/duplicate/remove a component in a form?
+* How do I make a component become compulsory (required)/ unique?
+* How do I configure a question to only display/hide based on a user’s response to a previous question?
+* How do I change title/theme(colour) of a page(panel) in a form?
+* How do I add multiple components(columns) in a same row?
+* How do I add/edit a select(drop box) component?
+* How do I add/edit an email component?
+* How do I add/edit a【date picker】component?
+* How do I make the day before month in component? 
+
+
+## Staff Management
+* How do I add a new staff?
+* How do I deactivate/reactivate a staff?
+
 
 ## Build the Theme
 

@@ -1,6 +1,6 @@
 ---
 title: Dashboard / Report
-permalink: orbis_dashboard_report.html
+permalink: orbiscrm.faq.dashboard_report.html
 sidebar: orbis_sidebar
 tags: [special_layouts]
 keywords: dashboard, report
