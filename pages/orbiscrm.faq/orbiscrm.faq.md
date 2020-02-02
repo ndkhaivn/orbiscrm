@@ -3,7 +3,7 @@ title: Getting started with FAQ for Orbis CRM
 keywords: orbis, overview,frequently asked questions, FAQ, question and answer, collapsible sections, expand, collapse
 sidebar: orbis_sidebar
 toc: false
-permalink: orbis.crm.faq.html
+permalink: orbiscrm.faq.html
 folder: orbis
 ---
 <div class="row">
@@ -14,11 +14,9 @@ folder: orbis
         <div class="col-md-6 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
-                    <h2>
-                        <a class="h4" href="orbis_dashboard_report.html" rel="noopener">
-                            Dashboard / Report
-                        </a>
-                    </h2>
+                    <b>
+                        <a class="fa-black-tie" href="orbiscrm.faq.dashboard_report.html" rel="noopener">Dashboard / Report</a>
+                    </b>   
                 </div>
                 <div class="panel-body">
                     <p>
