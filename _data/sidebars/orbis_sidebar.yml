@@ -5,71 +5,97 @@ entries:
   product: Orbis CRM FAQ
   version: 1.0
   folders:
-
-  - title:
-    output: pdf
-    type: frontmatter
-    folderitems:
     - title:
-      url: /titlepage.html
       output: pdf
       type: frontmatter
-    - title:
-      url: /tocpage.html
-      output: pdf
-      type: frontmatter
+      folderitems:
+      - title:
+        url: /titlepage.html
+        output: pdf
+        type: frontmatter
+      - title:
+        url: /tocpage.html
+        output: pdf
+        type: frontmatter
 
 ## Overview
-  - title: Overview
-    output: web, pdf
-    folderitems:
-
-    - title: Get started
-      url: /orbiscrm.faq.html
+    - title: Overview
       output: web, pdf
-      type: homepage
+      folderitems:
+      - title: Get started
+        url: /orbiscrm.faq.html
+        output: web, pdf
+        type: homepage
 
 ## Features
-  - title: Features
-    output: web, pdf
-    folderitems:
-
-    - title: Dashboard / Report
-      url: /orbiscrm.faq.dashboard_report.html
+    - title: Features
       output: web, pdf
+      folderitems:
+      - title: Dashboard / Report
+        url: /orbiscrm.faq.dashboard_report.html
+        output: web, pdf
 
-    - title: Calendar
-      url: /orbiscrm.faq.calendar.html
-      output: web, pdf
+      - title: Calendar
+        url: /orbiscrm.faq.calendar.html
+        output: web, pdf
 
-    - title: Leads
-      url: /orbiscrm.faq.leads.html
-      output: web, pdf
+      - title: Leads
+        url: /orbiscrm.faq.leads.html
+        output: web, pdf
 
-    - title: Enquiries
-      url: /orbiscrm.faq.enquiries.html
-      output: web, pdf
+      - title: Enquiries
+        url: /orbiscrm.faq.enquiries.html
+        output: web, pdf
 
-    - title: Registered Clients
-      url: /orbiscrm.faq.registered_clients.html
-      output: web, pdf
+      - title: Registered Clients
+        url: /orbiscrm.faq.registered_clients.html
+        output: web, pdf
 
-    - title: Applications
-      url: /orbiscrm.faq.applications.html
-      output: web, pdf
+        subfolders:
+        - title: Application
+          output: web, pdf
+          subfolderitems:
+            - title: Overview
+              url: /orbiscrm.faq.applications.html
+              output: web, pdf
+            - title: Progress
+              url: /orbiscrm.faq.applications.html
+              output: web, pdf
+            - title: Form
+              url: /orbiscrm.faq.applications.html
+              output: web, pdf
+            - title: Note
+              url: /orbiscrm.faq.applications.html
+              output: web, pdf
+            - title: Invoices
+              url: /orbiscrm.faq.applications.html
+              output: web, pdf
 
-    - title: Email
-      url: /orbiscrm.faq.email.html
-      output: web, pdf
+      - title: Email
+        url: /orbiscrm.faq.email.html
+        output: web, pdf
 
-    - title: Visa Type
-      url: /orbiscrm.faq.visa_type.html
-      output: web, pdf
+      - title: Visa Type
+        url: /orbiscrm.faq.visa_type.html
+        output: web, pdf
 
-    - title: Form Builder
-      url: /orbiscrm.faq.form_builder.html
-      output: web, pdf
+        subfolders:
+        - title: Form Builder
+          output: web, pdf
+          subfolderitems:
+            - title: Overview
+              url: /orbiscrm.faq.form_builder.html
+              output: web, pdf
+            - title: Basic Components
+              url: /orbiscrm.faq.form_builder.html
+              output: web, pdf
+            - title: Advanced Components
+              url: /orbiscrm.faq.form_builder.html
+              output: web, pdf
+            - title: Layout Formatting
+              url: /orbiscrm.faq.form_builder.html
+              output: web, pdf
 
-    - title: Staff Management
-      url: /orbiscrm.faq.staff_management.html
-      output: web, pdf
+      - title: Staff Management
+        url: /orbiscrm.faq.staff_management.html
+        output: web, pdf
