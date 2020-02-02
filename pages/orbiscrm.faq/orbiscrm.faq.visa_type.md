@@ -2,9 +2,7 @@
 title: Visa Type
 permalink: orbiscrm.faq.visa_type.html
 sidebar: orbis_sidebar
-tags: [special_layouts]
 keywords: visa, visa type, type
-last_updated: 02 FEB 20
 toc: false
 folder: orbiscrm.faq
 ---

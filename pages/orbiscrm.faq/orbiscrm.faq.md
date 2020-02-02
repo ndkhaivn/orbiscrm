@@ -1,11 +1,12 @@
 ---
 title: Getting started with FAQ for Orbis CRM
-keywords: orbis, overview,frequently asked questions, FAQ, question and answer, collapsible sections, expand, collapse
-sidebar: orbis_sidebar
-toc: false
 permalink: orbiscrm.faq.html
-folder: orbis
+sidebar: orbis_sidebar
+keywords: orbis, overview,frequently asked questions, FAQ, question and answer, collapsible sections, expand, collapse
+toc: false
+folder: orbiscrm.faq
 ---
+
 <div class="row">
     <div class="col-lg-12">
         <h2 class="page-header">Frequently Asked Questions</h2>

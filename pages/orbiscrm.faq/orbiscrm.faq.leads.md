@@ -2,9 +2,7 @@
 title: Leads
 permalink: orbiscrm.faq.leads.html
 sidebar: orbis_sidebar
-tags: [special_layouts]
 keywords: lead, leads
-last_updated: 02 FEB 20
 toc: false
 folder: orbiscrm.faq
 ---

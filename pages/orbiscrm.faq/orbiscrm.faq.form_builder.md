@@ -2,9 +2,7 @@
 title: Form Builder
 permalink: orbiscrm.faq.form_builder.html
 sidebar: orbis_sidebar
-tags: [special_layouts]
 keywords: form, build, 
-last_updated: 02 FEB 20
 toc: false
 folder: orbiscrm.faq
 ---

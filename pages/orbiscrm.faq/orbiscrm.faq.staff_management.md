@@ -2,9 +2,7 @@
 title: Staff Management
 permalink: orbiscrm.faq.staff_management.html
 sidebar: orbis_sidebar
-tags: [special_layouts]
 keywords: staff
-last_updated: 02 FEB 20
 toc: false
 folder: orbiscrm.faq
 ---

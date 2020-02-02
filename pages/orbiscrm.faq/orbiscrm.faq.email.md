@@ -2,9 +2,7 @@
 title: Email
 permalink: orbiscrm.faq.email.html
 sidebar: orbis_sidebar
-tags: [special_layouts]
 keywords: email
-last_updated: 02 FEB 20
 toc: false
 folder: orbiscrm.faq
 ---

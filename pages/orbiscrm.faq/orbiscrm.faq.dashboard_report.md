@@ -2,7 +2,6 @@
 title: Dashboard / Report
 permalink: orbiscrm.faq.dashboard_report.html
 sidebar: orbis_sidebar
-tags: [special_layouts]
 keywords: dashboard, report
 toc: false
 folder: orbis

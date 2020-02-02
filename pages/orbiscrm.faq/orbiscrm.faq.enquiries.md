@@ -2,9 +2,7 @@
 title: Enquiries
 permalink: orbiscrm.faq.enquiries.html
 sidebar: orbis_sidebar
-tags: [enquiries, enquiry]
 keywords: enquiries, enquiry
-last_updated: 02 FEB 20
 toc: false
 folder: orbiscrm.faq
 ---

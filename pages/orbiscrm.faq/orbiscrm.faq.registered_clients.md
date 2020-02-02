@@ -2,9 +2,7 @@
 title: Registered Clients
 permalink: orbiscrm.faq.registered_clients.html
 sidebar: orbis_sidebar
-tags: [registered, client]
 keywords: registered, client
-last_updated: 02 FEB 20
 toc: false
 folder: orbiscrm.faq
 ---

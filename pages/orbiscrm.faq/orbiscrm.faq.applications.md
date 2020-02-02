@@ -2,9 +2,7 @@
 title: Applications
 permalink: orbiscrm.faq.applications.html
 sidebar: orbis_sidebar
-tags: [applications, progress, form, note, invoices]
 keywords: applications, progress, form, note, invoices
-last_updated: 02 FEB 20
 toc: false
 folder: orbiscrm.faq
 ---
