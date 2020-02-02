@@ -1,8 +1,8 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: Orbis FAQ
-  product: Orbis FAQ
+- title: Orbis CRM FAQ
+  product: Orbis CRM FAQ
   version: 1.0
   folders:
 
