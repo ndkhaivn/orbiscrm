@@ -1,22 +1,22 @@
 entries:
-- title: Sidebar
-  folders:
-  - title: Food
+  - title: Sidebar
+    folders:
+      - title: Food
 
-    folderitems:
-    - title: Bananas
-      url: bananas.html
+        folderitems:
+          - title: Bananas
+            url: bananas.html
 
-      subfolders:
-      - title: Apples
+            subfolders:
+              - title: Apples
 
-        subfolderitems:
-        - title:  Fuji apples
-          url: fuji_apples.html
+                subfolderitems:
+                  - title:  Fuji apples
+                    url: fuji_apples.html
 
 
-        - title: Gala apples
-          url: gala_apples.html
+                  - title: Gala apples
+                    url: gala_apples.html
 
 name:
   husband: Tom
@@ -56,42 +56,42 @@ something: &hello Greetings earthling!
 myref: *hello
 
 about:
- - zero
- - one
- - two
- - three
+  - zero
+  - one
+  - two
+  - three
 
 numbercolors:
- - zero:
-   properties: red
- - one:
-   properties: yellow
- - two:
-   properties: green
- - three:
-   properties: blue
+  - zero:
+    properties: red
+  - one:
+    properties: yellow
+  - two:
+    properties: green
+  - three:
+    properties: blue
 
 mypages:
-- section1: Section 1
-  audience: developers
-  product: acme
-  url: facebook.com
-- section2: Section 2
-  audience: writers
-  product: acme
-  url: google.com
-- section3: Section 3
-  audience: developers
-  product: acme
-  url: amazon.com
-- section4: Section 4
-  audience: writers
-  product: gizmo
-  url: apple.com
-- section5: Section 5
-  audience: writers
-  product: acme
-  url: microsoft.com
+  - section1: Section 1
+    audience: developers
+    product: acme
+    url: facebook.com
+  - section2: Section 2
+    audience: writers
+    product: acme
+    url: google.com
+  - section3: Section 3
+    audience: developers
+    product: acme
+    url: amazon.com
+  - section4: Section 4
+    audience: writers
+    product: gizmo
+    url: apple.com
+  - section5: Section 5
+    audience: writers
+    product: acme
+    url: microsoft.com
 
 feedback: >
   This is my feedback to you.
@@ -99,9 +99,9 @@ feedback: >
   all of the linebreaks will be removed when the value is inserted.
 
 block: |
-    This pipe does something a little different.
-    It preserves the breaks.
-    This is really helpful for code samples,
-    since you can format the code samples with
-       the appropriate
-       white spacing.
+  This pipe does something a little different.
+  It preserves the breaks.
+  This is really helpful for code samples,
+  since you can format the code samples with
+     the appropriate
+     white spacing.

@@ -3,6 +3,7 @@ repository: tomjoht/documentation-theme-jekyll
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
+topnav_title: Orbis Advisors CRM User Docs
 topnav_title: Orbis CRM FAQ
 # this appears on the top navigation bar next to the home button
 

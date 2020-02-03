@@ -29,10 +29,9 @@ layout: default
 {% endif %}
 
 <div class="post-content">
-
-   {% if page.summary %}
+    {% if page.summary %}
     <div class="summary">{{page.summary}}</div>
-   {% endif %}
+    {% endif %}
 
     {% unless page.toc == false %}
     {% include toc.html %}
@@ -59,10 +58,4 @@ layout: default
 <!--        {% endif %}-->
 <!--    </div>-->
 
-{% include disqus.html %}
-
 </div>
-
-{{site.data.alerts.hr_shaded}}
-
-{% include footer.html %}
