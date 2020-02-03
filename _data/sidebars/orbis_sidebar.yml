@@ -1,0 +1,101 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: Orbis CRM FAQ
+  product: Orbis CRM FAQ
+  version: 1.0
+  folders:
+    - title:
+      output: pdf
+      type: frontmatter
+      folderitems:
+      - title:
+        url: /titlepage.html
+        output: pdf
+        type: frontmatter
+      - title:
+        url: /tocpage.html
+        output: pdf
+        type: frontmatter
+
+## Overview
+    - title: Overview
+      output: web, pdf
+      folderitems:
+      - title: Get started
+        url: /faq.html
+        output: web, pdf
+        type: homepage
+
+## Features
+    - title: Features
+      output: web, pdf
+      folderitems:
+      - title: Dashboard / Report
+        url: /faq.dashboard_report.html
+        output: web, pdf
+
+      - title: Calendar
+        url: /faq.calendar.html
+        output: web, pdf
+
+      - title: Leads
+        url: /faq.leads.html
+        output: web, pdf
+
+      - title: Enquiries
+        url: /faq.enquiries.html
+        output: web, pdf
+
+      - title: Registered Clients
+        url: /faq.registered_clients.html
+        output: web, pdf
+
+        subfolders:
+        - title: Application
+          output: web, pdf
+          subfolderitems:
+            - title: Overview
+              url: /faq.applications.html
+              output: web, pdf
+            - title: Progress
+              url: /faq.applications.html
+              output: web, pdf
+            - title: Form
+              url: /faq.applications.html
+              output: web, pdf
+            - title: Note
+              url: /faq.applications.html
+              output: web, pdf
+            - title: Invoices
+              url: /faq.applications.html
+              output: web, pdf
+
+      - title: Email
+        url: /faq.email.html
+        output: web, pdf
+
+      - title: Visa Type
+        url: /faq.visa_type.html
+        output: web, pdf
+
+        subfolders:
+        - title: Form Builder
+          output: web, pdf
+          subfolderitems:
+            - title: Overview
+              url: /faq.form_builder.html
+              output: web, pdf
+            - title: Basic Components
+              url: /faq.form_builder.html
+              output: web, pdf
+            - title: Advanced Components
+              url: /faq.form_builder.html
+              output: web, pdf
+            - title: Layout Formatting
+              url: /faq.form_builder.html
+              output: web, pdf
+
+      - title: Staff Management
+        url: /faq.staff_management.html
+        output: web, pdf

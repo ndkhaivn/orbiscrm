@@ -4,12 +4,13 @@ output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
 topnav_title: Orbis Advisors CRM User Docs
+topnav_title: Orbis CRM FAQ
 # this appears on the top navigation bar next to the home button
 
-site_title: User Docs
+site_title: Orbis CRM FAQ
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Your company
+company_name: ORBIS ADVISORS
 # this appears in the footer
 
 github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -36,9 +37,9 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Orbis Advisors CRM User Docs
+feedback_subject_line: Orbis CRM FAQ
 
-feedback_email: tomjoht@gmail.com
+feedback_email: orbisadvisors@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true

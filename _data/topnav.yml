@@ -2,3 +2,8 @@
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
 topnav:
 - title: Topnav
+  items:
+    - title: Orbis CRM
+      external_url: https://crm.orbisadvisors.com.au/
+    - title: Orbis Home
+      external_url: https://orbisadvisors.com.au/home/
