@@ -1,6 +1,6 @@
 ---
 title: Visa Type
-permalink: orbiscrm.faq.visa_type.html
+permalink: faq.visa_type.html
 sidebar: orbis_sidebar
 keywords: visa, visa type, type
 toc: false

@@ -1,6 +1,6 @@
 ---
 title: Form Builder
-permalink: orbiscrm.faq.form_builder.html
+permalink: faq.form_builder.html
 sidebar: orbis_sidebar
 keywords: form, build, 
 toc: false

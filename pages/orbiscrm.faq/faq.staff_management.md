@@ -1,6 +1,6 @@
 ---
 title: Staff Management
-permalink: orbiscrm.faq.staff_management.html
+permalink: faq.staff_management.html
 sidebar: orbis_sidebar
 keywords: staff
 toc: false

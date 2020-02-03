@@ -1,6 +1,6 @@
 ---
 title: Calendar
-permalink: orbiscrm.faq.calendar.html
+permalink: faq.calendar.html
 sidebar: orbis_sidebar
 keywords: calendar
 toc: false

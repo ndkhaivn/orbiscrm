@@ -1,8 +1,8 @@
 ---
-title: Registered Clients
-permalink: orbiscrm.faq.registered_clients.html
+title: Enquiries
+permalink: faq.enquiries.html
 sidebar: orbis_sidebar
-keywords: registered, client
+keywords: enquiries, enquiry
 toc: false
 folder: orbiscrm.faq
 ---
@@ -12,17 +12,13 @@ folder: orbiscrm.faq
         <div class="panel-heading">
             <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                    How do I edit/save information for a registered client?
+                    How do I create an account for client from an enquiry?
                 </a>
             </h4>
         </div>
         <div id="collapseOne" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <ul>
-                    <li>
-                        Click【Edit】button to change client details.
-                    </li>
-                </ul>
+                Click【Create Account】button to create a account for unregistered client.(Only applicable to unregistered clients)
             </div>
         </div>
     </div>
@@ -31,17 +27,13 @@ folder: orbiscrm.faq
         <div class="panel-heading">
             <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                How do I add/edit a note for a registered client?
+                How do I edit/save information in an enquiry?
                 </a>
             </h4>
         </div>
         <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <ul>
-                    <li>
-                        Click【+ New Note】button to create a new note
-                    </li>
-                </ul>
+                BBBBBBB
             </div>
         </div>
     </div>
@@ -50,13 +42,13 @@ folder: orbiscrm.faq
         <div class="panel-heading">
             <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                How do I add a new application for a registered client?
+                How do I add/edit a note of an enquiry?
                 </a>
             </h4>
         </div>
         <div id="collapseThree" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                CC
+                CCC
             </div>
         </div>
     </div>
@@ -64,14 +56,29 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-                What shows in a Registered Client page
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
+                How do I add a new application in an enquiry?
                 </a>
             </h4>
         </div>
-        <div id="collapse4" class="panel-collapse collapse noCrossRef">
+        <div id="collapseFour" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <img src="/images/registered_client.png" alt="Registered Client" height="42" width="42"><br>
+                DD
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse5">
+                What shows in an Enquiry page?
+                </a>
+            </h4>
+        </div>
+        <div id="collapse5" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                EE
             </div>
         </div>
     </div>

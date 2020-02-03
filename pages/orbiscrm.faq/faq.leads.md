@@ -1,8 +1,8 @@
 ---
-title: Enquiries
-permalink: orbiscrm.faq.enquiries.html
+title: Leads
+permalink: faq.leads.html
 sidebar: orbis_sidebar
-keywords: enquiries, enquiry
+keywords: lead, leads
 toc: false
 folder: orbiscrm.faq
 ---
@@ -12,13 +12,13 @@ folder: orbiscrm.faq
         <div class="panel-heading">
             <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                    How do I create an account for client from an enquiry?
+                    How do I close a lead?
                 </a>
             </h4>
         </div>
         <div id="collapseOne" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                Click【Create Account】button to create a account for unregistered client.(Only applicable to unregistered clients)
+                AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
             </div>
         </div>
     </div>
@@ -27,7 +27,7 @@ folder: orbiscrm.faq
         <div class="panel-heading">
             <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                How do I edit/save information in an enquiry?
+                How do I reopen a closed lead?
                 </a>
             </h4>
         </div>
@@ -42,13 +42,13 @@ folder: orbiscrm.faq
         <div class="panel-heading">
             <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                How do I add/edit a note of an enquiry?
+                How do I add/edit a note of a lead?
                 </a>
             </h4>
         </div>
         <div id="collapseThree" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                CCC
+                CCCCCCCC
             </div>
         </div>
     </div>
@@ -56,29 +56,34 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
-                How do I add a new application in an enquiry?
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse4">
+                What shows in an Lead page?
                 </a>
             </h4>
         </div>
-        <div id="collapseFour" class="panel-collapse collapse noCrossRef">
+        <div id="collapse4" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                DD
-            </div>
-        </div>
-    </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse5">
-                What shows in an Enquiry page?
-                </a>
-            </h4>
-        </div>
-        <div id="collapse5" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                EE
+                <img src="/images/enquiry.png" alt="Lead" height="42" width="42"><br>
+                <ol>
+                    <li>Close button</li>
+                    <ul>
+                        <li>
+                            Click【Close】button when the Lead has been resolved
+                        </li>
+                    </ul>
+                    <li>Edit Note button</li>
+                    <ul>
+                        <li>
+                            Click【Edit】button to edit the note for the leads
+                        </li>
+                    </ul>
+                    <li>Save button</li>
+                    <ul>
+                        <li>
+                            Click【Save】button to save the edition of note.
+                        </li>
+                    </ul>
+                </ol>
             </div>
         </div>
     </div>

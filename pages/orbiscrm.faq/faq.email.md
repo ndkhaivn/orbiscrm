@@ -1,6 +1,6 @@
 ---
 title: Email
-permalink: orbiscrm.faq.email.html
+permalink: faq.email.html
 sidebar: orbis_sidebar
 keywords: email
 toc: false
