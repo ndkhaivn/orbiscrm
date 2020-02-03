@@ -59,16 +59,16 @@ entries:
               url: /faq.applications.html
               output: web, pdf
             - title: Progress
-              url: /faq.applications.html
+              url: /faq.applications_progress.html
               output: web, pdf
             - title: Form
-              url: /faq.applications.html
+              url: /faq.applications_form.html
               output: web, pdf
             - title: Note
-              url: /faq.applications.html
+              url: /faq.applications_note.html
               output: web, pdf
             - title: Invoices
-              url: /faq.applications.html
+              url: /faq.applications_invoices.html
               output: web, pdf
 
       - title: Email
@@ -87,13 +87,13 @@ entries:
               url: /faq.form_builder.html
               output: web, pdf
             - title: Basic Components
-              url: /faq.form_builder.html
+              url: /faq.form_builder_basic.html
               output: web, pdf
             - title: Advanced Components
-              url: /faq.form_builder.html
+              url: /faq.form_builder_advanced.html
               output: web, pdf
             - title: Layout Formatting
-              url: /faq.form_builder.html
+              url: /faq.form_builder_layout.html
               output: web, pdf
 
       - title: Staff Management

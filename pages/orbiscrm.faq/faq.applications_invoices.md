@@ -1,6 +1,6 @@
 ---
 title: Applications Overview
-permalink: faq.applications._invoiceshtml
+permalink: faq.applications_invoices.html
 sidebar: orbis_sidebar
 keywords: applications, progress, form, note, invoices
 toc: false
