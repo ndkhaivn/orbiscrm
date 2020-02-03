@@ -23,7 +23,7 @@ entries:
       output: web, pdf
       folderitems:
       - title: Get started
-        url: /orbiscrm.faq.html
+        url: /faq.html
         output: web, pdf
         type: homepage
 
@@ -32,23 +32,23 @@ entries:
       output: web, pdf
       folderitems:
       - title: Dashboard / Report
-        url: /orbiscrm.faq.dashboard_report.html
+        url: /faq.dashboard_report.html
         output: web, pdf
 
       - title: Calendar
-        url: /orbiscrm.faq.calendar.html
+        url: /faq.calendar.html
         output: web, pdf
 
       - title: Leads
-        url: /orbiscrm.faq.leads.html
+        url: /faq.leads.html
         output: web, pdf
 
       - title: Enquiries
-        url: /orbiscrm.faq.enquiries.html
+        url: /faq.enquiries.html
         output: web, pdf
 
       - title: Registered Clients
-        url: /orbiscrm.faq.registered_clients.html
+        url: /faq.registered_clients.html
         output: web, pdf
 
         subfolders:
@@ -56,27 +56,27 @@ entries:
           output: web, pdf
           subfolderitems:
             - title: Overview
-              url: /orbiscrm.faq.applications.html
+              url: /faq.applications.html
               output: web, pdf
             - title: Progress
-              url: /orbiscrm.faq.applications.html
+              url: /faq.applications.html
               output: web, pdf
             - title: Form
-              url: /orbiscrm.faq.applications.html
+              url: /faq.applications.html
               output: web, pdf
             - title: Note
-              url: /orbiscrm.faq.applications.html
+              url: /faq.applications.html
               output: web, pdf
             - title: Invoices
-              url: /orbiscrm.faq.applications.html
+              url: /faq.applications.html
               output: web, pdf
 
       - title: Email
-        url: /orbiscrm.faq.email.html
+        url: /faq.email.html
         output: web, pdf
 
       - title: Visa Type
-        url: /orbiscrm.faq.visa_type.html
+        url: /faq.visa_type.html
         output: web, pdf
 
         subfolders:
@@ -84,18 +84,18 @@ entries:
           output: web, pdf
           subfolderitems:
             - title: Overview
-              url: /orbiscrm.faq.form_builder.html
+              url: /faq.form_builder.html
               output: web, pdf
             - title: Basic Components
-              url: /orbiscrm.faq.form_builder.html
+              url: /faq.form_builder.html
               output: web, pdf
             - title: Advanced Components
-              url: /orbiscrm.faq.form_builder.html
+              url: /faq.form_builder.html
               output: web, pdf
             - title: Layout Formatting
-              url: /orbiscrm.faq.form_builder.html
+              url: /faq.form_builder.html
               output: web, pdf
 
       - title: Staff Management
-        url: /orbiscrm.faq.staff_management.html
+        url: /faq.staff_management.html
         output: web, pdf
