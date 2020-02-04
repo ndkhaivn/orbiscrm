@@ -116,12 +116,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-edit-a-select-drop-box-component">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-edit-an-email-component">
                 How do I add/edit an email component?
                 </a>
             </h4>
         </div>
-        <div id="how-do-i-add-edit-a-select-drop-box-component" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-add-edit-an-email-component" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 To be added...
             </div>
