@@ -11,12 +11,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-edit-save-information-for-a-registered-client">
                     How do I edit/save information for a registered client?
                 </a>
             </h4>
         </div>
-        <div id="collapseOne" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-edit-save-information-for-a-registered-client" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ul>
                     <li>
@@ -30,12 +30,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-edit-a-note-for-a-registered-client">
                 How do I add/edit a note for a registered client?
                 </a>
             </h4>
         </div>
-        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-add-edit-a-note-for-a-registered-client" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ul>
                     <li>
@@ -49,12 +49,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-a-new-application-for-a-registered-client">
                 How do I add a new application for a registered client?
                 </a>
             </h4>
         </div>
-        <div id="collapseThree" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-add-a-new-application-for-a-registered-client" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 CC
             </div>
@@ -64,12 +64,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse4">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-shows-in-a-registered-client-page">
                 What shows in a Registered Client page
                 </a>
             </h4>
         </div>
-        <div id="collapse4" class="panel-collapse collapse noCrossRef">
+        <div id="what-shows-in-a-registered-client-page" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <img src="/images/registered_client.png" alt="Registered Client" height="42" width="42"><br>
             </div>

@@ -31,6 +31,9 @@ folder: orbiscrm.faq
                         </a>
                     </p>
                     <p>
+                        <a href="faq.dashboard_report.html#what-shows-in-dashboard-page">
+                            What shows in Dashboard Page?
+                        </a>
                     </p>
                     <a href="faq.dashboard_report.html" class="btn btn-primary">View More</a>
                 </div>
@@ -213,7 +216,7 @@ folder: orbiscrm.faq
         <div class="col-md-6 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
-                    <h4>Forms</h4>
+                    <h4>Form Builder</h4>
                 </div>
                 <div class="panel-body">
                     <p>

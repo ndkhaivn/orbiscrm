@@ -11,12 +11,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-shows-in-a-registered-client-page">
                     How do I add/edit the reference number for an application?
                 </a>
             </h4>
         </div>
-        <div id="collapseOne" class="panel-collapse collapse noCrossRef">
+        <div id="what-shows-in-a-registered-client-page" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
             </div>
@@ -26,12 +26,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-change-the-status-of-an-application">
                 How do I change the status of an application?
                 </a>
             </h4>
         </div>
-        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-change-the-status-of-an-application" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 BBBBBBB
             </div>
@@ -41,12 +41,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-shows-in-the-application-page">
                     What shows in the Application page?
                 </a>
             </h4>
         </div>
-        <div id="collapseThree" class="panel-collapse collapse noCrossRef">
+        <div id="what-shows-in-the-application-page" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ul>
                     <li>
@@ -69,12 +69,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse4">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-set-up-a-reminder-for-a-progress-task-in-an-application">
                     How do I set up a reminder for a progress(task) in an application?
                 </a>
             </h4>
         </div>
-        <div id="collapse4" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-set-up-a-reminder-for-a-progress-task-in-an-application" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
                     <li>

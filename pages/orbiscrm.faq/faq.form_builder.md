@@ -11,12 +11,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-rename-duplicate-test-delete-a-form">
                     How do I add/rename/duplicate/test/delete a form?
                 </a>
             </h4>
         </div>
-        <div id="collapseOne" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-add-rename-duplicate-test-delete-a-form" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
             </div>
@@ -26,12 +26,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-duplicate-remove-a-component-in-a-form">
                 How do I add/duplicate/remove a component in a form?
                 </a>
             </h4>
         </div>
-        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-add-duplicate-remove-a-component-in-a-form" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 BBBBBBB
             </div>
@@ -41,12 +41,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-make-a-component-become-compulsory-required-unique">
                 How do I make a component become compulsory (required)/ unique?
                 </a>
             </h4>
         </div>
-        <div id="collapseThree" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-make-a-component-become-compulsory-required-unique" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 CCCC
             </div>
@@ -56,12 +56,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-configure-a-question-to-only-display-hide-based-on-a-us">
                 How do I configure a question to only display/hide based on a user’s response to a previous question?
                 </a>
             </h4>
         </div>
-        <div id="collapseFour" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-configure-a-question-to-only-display-hide-based-on-a-us" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 DDDD
             </div>
@@ -71,12 +71,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-change-title-theme-colour-of-a-page-panel-in-a-form">
                 How do I change title/theme(colour) of a page(panel) in a form?
                 </a>
             </h4>
         </div>
-        <div id="collapseFive" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-change-title-theme-colour-of-a-page-panel-in-a-form" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 EEEEE
             </div>
@@ -86,12 +86,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-multiple-components-columns-in-a-same-row">
                 How do I add multiple components(columns) in a same row?
                 </a>
             </h4>
         </div>
-        <div id="collapseSix" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-add-multiple-components-columns-in-a-same-row" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 FFFFFFFFFF
             </div>
@@ -101,12 +101,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-edit-a-select-drop-box-component">
                 How do I add/edit a select(drop box) component?
                 </a>
             </h4>
         </div>
-        <div id="collapseSeven" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-add-edit-a-select-drop-box-component" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 GGG
             </div>
@@ -116,12 +116,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseEight">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-edit-a-select-drop-box-component">
                 How do I add/edit an email component?
                 </a>
             </h4>
         </div>
-        <div id="collapseEight" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-add-edit-a-select-drop-box-component" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 HHHHHHH
             </div>
@@ -131,12 +131,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseNine">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-edit-a【date-picker】component">
                 How do I add/edit a【date picker】component?
                 </a>
             </h4>
         </div>
-        <div id="collapseNine" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-add-edit-a【date-picker】component" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 IIIIII
             </div>
@@ -146,12 +146,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTen">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-make-the-day-before-month-in-component">
                 How do I make the day before month in component?
                 </a>
             </h4>
         </div>
-        <div id="collapseTen" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-make-the-day-before-month-in-component" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 JJJJJJJ
             </div>
@@ -161,12 +161,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse11">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-shows-in-the-form-builder">
                 What shows in the Form Builder?
                 </a>
             </h4>
         </div>
-        <div id="collapse11" class="panel-collapse collapse noCrossRef">
+        <div id="what-shows-in-the-form-builder" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
                     <li>

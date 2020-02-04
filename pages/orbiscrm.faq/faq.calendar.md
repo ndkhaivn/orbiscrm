@@ -11,12 +11,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseZero">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-shows-on-the-calendar-page">
                     What shows on the Calendar page?
                 </a>
             </h4>
         </div>
-        <div id="collapseZero" class="panel-collapse collapse noCrossRef">
+        <div id="what-shows-on-the-calendar-page" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <img src="/images/calender.png" alt="Calendar" height="42" width="42"><br>            
             </div>
@@ -26,12 +26,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-a-new-event-more-quickly-by-dragging">
                     How do I add a new event (more quickly) by dragging?
                 </a>
             </h4>
         </div>
-        <div id="collapseOne" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-add-a-new-event-more-quickly-by-dragging" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
                     <li>Click and drag across the desired dates to create an event spanning across multiples days.</li>
@@ -44,12 +44,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-link-an-event-to-a-client">
                 How do I link an event to a client?
                 </a>
             </h4>
         </div>
-        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-link-an-event-to-a-client" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
                     <li>Select a client to link with the event.</li>

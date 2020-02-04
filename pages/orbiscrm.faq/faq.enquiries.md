@@ -11,12 +11,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-create-an-account-for-client-from-an-enquiry">
                     How do I create an account for client from an enquiry?
                 </a>
             </h4>
         </div>
-        <div id="collapseOne" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-create-an-account-for-client-from-an-enquiry" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 Click【Create Account】button to create a account for unregistered client.(Only applicable to unregistered clients)
             </div>
@@ -26,12 +26,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-edit-save-information-in-an-enquiry">
                 How do I edit/save information in an enquiry?
                 </a>
             </h4>
         </div>
-        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-edit-save-information-in-an-enquiry" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 BBBBBBB
             </div>
@@ -41,12 +41,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-edit-a-note-of-an-enquiry">
                 How do I add/edit a note of an enquiry?
                 </a>
             </h4>
         </div>
-        <div id="collapseThree" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-add-edit-a-note-of-an-enquiry" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 CCC
             </div>
@@ -56,12 +56,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-a-new-application-in-an-enquiry">
                 How do I add a new application in an enquiry?
                 </a>
             </h4>
         </div>
-        <div id="collapseFour" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-add-a-new-application-in-an-enquiry" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 DD
             </div>
@@ -71,12 +71,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse5">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-shows-in-an-enquiry-page">
                 What shows in an Enquiry page?
                 </a>
             </h4>
         </div>
-        <div id="collapse5" class="panel-collapse collapse noCrossRef">
+        <div id="what-shows-in-an-enquiry-page" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 EE
             </div>

@@ -11,12 +11,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-edit-delete-a-visa-type">
                     How do I add/edit/(delete?) a visa type?
                 </a>
             </h4>
         </div>
-        <div id="collapseOne" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-add-edit-delete-a-visa-type" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
             </div>

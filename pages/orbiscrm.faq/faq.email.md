@@ -11,12 +11,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-edit-save-a-field-footer-of-emails">
                     How do I edit/save a field (footer) of emails?
                 </a>
             </h4>
         </div>
-        <div id="collapseOne" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-edit-save-a-field-footer-of-emails" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
             </div>
@@ -26,12 +26,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-edit-delete-an-email-template">
                 How do I add/edit/delete an email template?
                 </a>
             </h4>
         </div>
-        <div id="collapseTwo" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-add-edit-delete-an-email-template" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 BBBBBBB
             </div>
@@ -41,12 +41,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-insert-client-information-inside-an-email-template">
                 How do I insert client information inside an email template?
                 </a>
             </h4>
         </div>
-        <div id="collapseThree" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-insert-client-information-inside-an-email-template" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 Ccc
             </div>
@@ -56,12 +56,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-send-an-email-to-a-client">
                 How do I send an email to a client?
                 </a>
             </h4>
         </div>
-        <div id="collapseFour" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-send-an-email-to-a-client" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 DDD
             </div>
@@ -71,12 +71,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-preview-an-email">
                 How do I preview an email?
                 </a>
             </h4>
         </div>
-        <div id="collapseFive" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-preview-an-email" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 EEEEEE
             </div>
