@@ -48,7 +48,7 @@ folder: orbis
         </div>
         <div id="what-shows-in-dashboard-page" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <img src="/images/dashboard.png" alt="Dashboard" height="42" width="42"><br>
+                <img src="/images/dashboard.png" alt="Dashboard" style="width: 100%"><br>
                 <ul>
                     <li>Business Status</li>
                         <ul><li>Click on any of the 4 business status to view them in more detail. </li></ul>
