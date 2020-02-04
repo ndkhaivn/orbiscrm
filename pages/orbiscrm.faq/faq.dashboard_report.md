@@ -18,7 +18,7 @@ folder: orbis
         </div>
         <div id="how-do-i-add-a-new-task" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                To be added...
             </div>
         </div>
     </div>
@@ -33,7 +33,7 @@ folder: orbis
         </div>
         <div id="how-do-i-customize-date-range" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                BBBBBBB
+                To be added...
             </div>
         </div>
     </div>
@@ -73,7 +73,7 @@ folder: orbis
         </div>
         <div id="what-shows-in-report-page" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                DDDDDDDDDDDD
+                To be added...
             </div>
         </div>
     </div>

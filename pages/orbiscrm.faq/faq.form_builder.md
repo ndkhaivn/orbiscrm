@@ -18,7 +18,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-add-rename-duplicate-test-delete-a-form" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                To be added...
             </div>
         </div>
     </div>
@@ -33,7 +33,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-add-duplicate-remove-a-component-in-a-form" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                BBBBBBB
+                To be added...
             </div>
         </div>
     </div>
@@ -48,7 +48,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-make-a-component-become-compulsory-required-unique" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                CCCC
+                To be added...
             </div>
         </div>
     </div>
@@ -63,7 +63,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-configure-a-question-to-only-display-hide-based-on-a-us" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                DDDD
+                To be added...
             </div>
         </div>
     </div>
@@ -78,7 +78,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-change-title-theme-colour-of-a-page-panel-in-a-form" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                EEEEE
+                To be added...
             </div>
         </div>
     </div>
@@ -93,7 +93,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-add-multiple-components-columns-in-a-same-row" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                FFFFFFFFFF
+                To be added...
             </div>
         </div>
     </div>
@@ -108,7 +108,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-add-edit-a-select-drop-box-component" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                GGG
+                To be added...
             </div>
         </div>
     </div>
@@ -123,7 +123,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-add-edit-a-select-drop-box-component" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                HHHHHHH
+                To be added...
             </div>
         </div>
     </div>
@@ -138,7 +138,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-add-edit-a【date-picker】component" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                IIIIII
+                To be added...
             </div>
         </div>
     </div>
@@ -153,7 +153,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-make-the-day-before-month-in-component" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                JJJJJJJ
+                To be added...
             </div>
         </div>
     </div>

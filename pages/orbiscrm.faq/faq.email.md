@@ -18,7 +18,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-edit-save-a-field-footer-of-emails" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                To be added...
             </div>
         </div>
     </div>
@@ -33,7 +33,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-add-edit-delete-an-email-template" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                BBBBBBB
+                To be added...
             </div>
         </div>
     </div>
@@ -48,7 +48,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-insert-client-information-inside-an-email-template" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                Ccc
+                To be added...
             </div>
         </div>
     </div>
@@ -63,7 +63,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-send-an-email-to-a-client" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                DDD
+                To be added...
             </div>
         </div>
     </div>
@@ -78,7 +78,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-preview-an-email" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                EEEEEE
+                To be added...
             </div>
         </div>
     </div>

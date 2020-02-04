@@ -56,7 +56,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-add-a-new-application-for-a-registered-client" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                CC
+                To be added...
             </div>
         </div>
     </div>

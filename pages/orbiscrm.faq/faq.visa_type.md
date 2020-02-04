@@ -18,7 +18,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-add-edit-delete-a-visa-type" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                To be added...
             </div>
         </div>
     </div>

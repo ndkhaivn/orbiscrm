@@ -18,7 +18,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-add-a-new-staff" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                To be added...
             </div>
         </div>
     </div>
@@ -33,7 +33,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-deactivate-reactivate-a-staff" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                BBBBBBB
+                To be added...
             </div>
         </div>
     </div>
