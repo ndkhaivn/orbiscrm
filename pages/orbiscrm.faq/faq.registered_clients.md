@@ -71,7 +71,7 @@ folder: orbiscrm.faq
         </div>
         <div id="what-shows-in-a-registered-client-page" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <img src="/images/registered_client.png" alt="Registered Client" height="42" width="42"><br>
+                <img src="images/registered_client.png" alt="Registered Client" style="width: 100%"><br>
             </div>
         </div>
     </div>

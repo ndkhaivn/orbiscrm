@@ -18,7 +18,7 @@ folder: orbiscrm.faq
         </div>
         <div id="what-shows-on-the-calendar-page" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <img src="/images/calender.png" alt="Calendar" height="42" width="42"><br>            
+                <img src="images/calender.png" alt="Calendar" style="width: 100%;"><br>            
             </div>
         </div>
     </div>
