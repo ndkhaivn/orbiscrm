@@ -18,7 +18,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-close-a-lead" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+                To be added...
             </div>
         </div>
     </div>
@@ -33,7 +33,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-reopen-a-closed-lead" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                BBBBBBB
+                To be added...
             </div>
         </div>
     </div>
@@ -48,7 +48,7 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-add-edit-a-note-of-a-lead" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                CCCCCCCC
+                To be added...
             </div>
         </div>
     </div>
