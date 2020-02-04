@@ -63,7 +63,7 @@ folder: orbiscrm.faq
         </div>
         <div id="what-shows-in-an-lead-page" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <img src="/images/enquiry.png" alt="Lead" height="42" width="42"><br>
+                <img src="/images/enquiry.png" alt="Lead" style="width: 100%"><br>
                 <ol>
                     <li>Close button</li>
                     <ul>
