@@ -36,12 +36,12 @@ folder: orbis
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-customize-date-range">
-                How do I customize date range?
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-customise-date-range">
+                How do I customise date range?
                 </a>
             </h4>
         </div>
-        <div id="how-do-i-customize-date-range" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-customise-date-range" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
                     <li style="font-weight: bold">Click the【Date Ranges Bar】</li>
