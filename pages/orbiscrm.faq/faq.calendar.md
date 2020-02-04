@@ -2,7 +2,7 @@
 title: Calendar
 permalink: faq.calendar.html
 sidebar: orbis_sidebar
-keywords: calendar
+keywords: calendar, event, period, google calendar, drag
 toc: false
 folder: orbiscrm.faq
 ---
