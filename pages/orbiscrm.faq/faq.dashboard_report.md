@@ -2,9 +2,9 @@
 title: Dashboard / Report
 permalink: faq.dashboard_report.html
 sidebar: orbis_sidebar
-keywords: dashboard, report
+keywords: dashboard, report, task, pending, priority, custom, date range, financial, business, statistic
 toc: false
-folder: orbis
+folder: orbiscrm.faq
 ---
 
 <div class="panel-group" id="accordion">
