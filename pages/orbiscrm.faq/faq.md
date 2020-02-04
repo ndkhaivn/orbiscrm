@@ -94,7 +94,7 @@ folder: orbiscrm.faq
         <div class="col-md-6 col-sm-6">
         <div class="panel panel-default text-center">
             <div class="panel-heading">
-                <h4>Enquirires</h4>
+                <h4>Enquiries</h4>
             </div>
             <div class="panel-body">
                 <p>
