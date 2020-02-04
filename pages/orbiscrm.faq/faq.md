@@ -46,16 +46,19 @@ folder: orbiscrm.faq
             </div>
             <div class="panel-body">
                 <p>
-                    <a href="faq.calendar.html">
+                    <a href="faq.calendar.html#what-shows-on-the-calendar-page">
+                        What shows on the Calendar page?
+                    </a>
+                </p>
+                <p>
+                    <a href="faq.calendar.html#how-do-i-add-a-new-event-more-quickly-by-dragging">
                         How do I add a new event (more quickly) by dragging?
                     </a>
                 </p>
                 <p>
-                    <a href="faq.calendar.html">
+                    <a href="faq.calendar.html#how-do-i-link-an-event-to-a-client">
                         How do I link an event to a client?
                     </a>
-                </p>
-                <p>
                 </p>
                 <a href="faq.calendar.html" class="btn btn-primary">View More</a>
             </div>
@@ -70,17 +73,17 @@ folder: orbiscrm.faq
                 </div>
                 <div class="panel-body">
                     <p>
-                        <a href="faq.leads.html">
+                        <a href="faq.leads.html#how-do-i-close-a-lead">
                             How do I close a lead?
                         </a>
                     </p>
                     <p>
-                        <a href="faq.leads.html">
+                        <a href="faq.leads.html#how-do-i-reopen-a-closed-lead">
                             How do I reopen a closed lead?
                         </a>
                     </p>
                     <p>
-                        <a href="orbiscrm.faq.leads.html">
+                        <a href="faq.leads.html#how-do-i-add-edit-a-note-of-a-lead">
                             How do I add/edit a note of a lead?
                         </a>
                     </p>
@@ -95,17 +98,17 @@ folder: orbiscrm.faq
             </div>
             <div class="panel-body">
                 <p>
-                    <a href="faq.enquiries.html">
+                    <a href="faq.enquiries.html#how-do-i-create-an-account-for-client-from-an-enquiry">
                         How do I create an account for client from an enquiry?
                     </a>
                 </p>
                 <p>
-                    <a href="faq.enquiries.html">
+                    <a href="faq.enquiries.html#how-do-i-edit-save-information-in-an-enquiry">
                         How do I edit/save information in an enquiry?
                     </a>
                 </p>
                 <p>
-                    <a href="faq.enquiries.html">
+                    <a href="faq.enquiries.html#how-do-i-add-edit-a-note-of-an-enquiry">
                         How do I add/edit a note of an enquiry?
                     </a>
                 </p>
@@ -122,17 +125,17 @@ folder: orbiscrm.faq
                 </div>
                 <div class="panel-body">
                     <p>
-                        <a href="faq.registered_clients.html">
+                        <a href="faq.registered_clients.html#how-do-i-edit-save-information-for-a-registered-client">
                             How do I edit/save information for a registered client?
                         </a>
                     </p>
                     <p>
-                        <a href="faq.registered_clients.html">
+                        <a href="faq.registered_clients.html#how-do-i-add-edit-a-note-for-a-registered-client">
                             How do I add/edit a note for a registered client?
                         </a>
                     </p>
                     <p>
-                        <a href="faq.registered_clients.html">
+                        <a href="faq.registered_clients.html#how-do-i-add-a-new-application-for-a-registered-client">
                             How do I add a new application for a registered client?
                         </a>
                     </p>
@@ -147,18 +150,18 @@ folder: orbiscrm.faq
             </div>
             <div class="panel-body">
                 <p>
-                    <a href="faq.applications.html">
+                    <a href="faq.applications.html#how-do-i-add-edit-the-reference-number-for-an-application">
                         How do I add/edit the reference number for an application?
                     </a>
                 </p>
                 <p>
-                    <a href="faq.applications.html">
+                    <a href="faq.applications.html#how-do-i-change-the-status-of-an-application">
                         How do I change the status of an application?
                     </a>
                 </p>
                 <p>
-                    <a href="faq.applications.html">
-                        Handle Application
+                    <a href="faq.applications.html#what-shows-in-the-application-page">
+                        What shows in the Application page?
                     </a>
                 </p>
                 <a href="faq.applications.html" class="btn btn-primary">View More</a>
@@ -174,17 +177,17 @@ folder: orbiscrm.faq
                 </div>
                 <div class="panel-body">
                     <p>
-                        <a href="faq.email.html">
+                        <a href="faq.email.html#how-do-i-edit-save-a-field-footer-of-emails">
                             How do I edit/save a field (footer) of emails?
                         </a>
                     </p>
                     <p>
-                        <a href="faq.email.html">
+                        <a href="faq.email.html#how-do-i-add-edit-delete-an-email-template">
                             How do I add/edit/delete an email template?
                         </a>
                     </p>
                     <p>
-                        <a href="faq.email.html">
+                        <a href="faq.email.html#how-do-i-insert-client-information-inside-an-email-template">
                             How do I insert client information inside an email template?
                         </a>
                     </p>
@@ -199,7 +202,7 @@ folder: orbiscrm.faq
             </div>
             <div class="panel-body">
                 <p>
-                    <a href="faq.visa_type.html">
+                    <a href="faq.visa_type.html#how-do-i-add-edit-delete-a-visa-type">
                         How do I add/edit/(delete?) a visa type?
                     </a>
                 </p>
@@ -220,21 +223,21 @@ folder: orbiscrm.faq
                 </div>
                 <div class="panel-body">
                     <p>
-                        <a href="faq.forms.html">
+                        <a href="faq.form_builder.html#how-do-i-add-rename-duplicate-test-delete-a-form">
                             How do I add/rename/duplicate/test/delete a form?
                         </a>
                     </p>
                     <p>
-                        <a href="faq.forms.html">
+                        <a href="faq.form_builder.html#how-do-i-add-duplicate-remove-a-component-in-a-form">
                             How do I add/duplicate/remove a component in a form?
                         </a>
                     </p>
                     <p>
-                        <a href="faq.forms.html">
+                        <a href="faq.form_builder.html#how-do-i-make-a-component-become-compulsory-required-unique">
                             How do I make a component become compulsory (required)/ unique?
                         </a>
                     </p>
-                    <a href="faq.forms.html" class="btn btn-primary">View More</a>
+                    <a href="faq.form_builder.html" class="btn btn-primary">View More</a>
                 </div>
             </div>
         </div>
@@ -245,12 +248,12 @@ folder: orbiscrm.faq
             </div>
             <div class="panel-body">
                 <p>
-                    <a href="faq.staff_management.html">
+                    <a href="faq.staff_management.html#how-do-i-add-a-new-staff">
                         How do I add a new staff?
                     </a>
                 </p>
                 <p>
-                    <a href="faq.staff_management.html">
+                    <a href="faq.staff_management.html#how-do-i-deactivate-reactivate-a-staff">
                         How do I deactivate/reactivate a staff?
                     </a>
                 </p>
