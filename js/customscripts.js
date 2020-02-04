@@ -51,4 +51,8 @@ $(function() {
             return $this.find("a[data-toggle=tab]:first, a[data-toggle=pill]:first").tab("show");
         }
     });
+
+    let url = window.location;
+    $(url.hash).collapse('show');
+
 });
