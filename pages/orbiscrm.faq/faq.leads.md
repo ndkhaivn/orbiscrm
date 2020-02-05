@@ -86,7 +86,7 @@ folder: orbiscrm.faq
         </div>
         <div id="what-shows-in-a-closed-lead-page" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                <img src="/images/leads/lead-closed.png" alt="lead-closed.png" style="width: 95%"><br>
+                <img src="images/leads/lead-closed.png" alt="lead-closed.png" style="width: 95%"><br>
                 <ol>
                     <li>【<b>Navigation</b>】Bar
                     </li>
