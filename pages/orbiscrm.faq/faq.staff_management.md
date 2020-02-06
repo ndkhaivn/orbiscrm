@@ -2,7 +2,7 @@
 title: Staff Management
 permalink: faq.staff_management.html
 sidebar: orbis_sidebar
-keywords: staff
+keywords: staff, role, activate, deactivate, inactive
 toc: false
 folder: orbiscrm.faq
 ---
@@ -18,7 +18,18 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-add-a-new-staff" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                To be added...
+                <ol>
+                    <li>Navigate to the <b>Staff Management</b>
+                    </li>
+                    <li>Click the【<b>+ New Staff</b>】button
+                    </li>
+                    <li>Fill in the <b>Email Address</b>
+                    </li>
+                    <li>Select the <b>Role</b>
+                    </li>
+                    <li>Click the【<b>Submit</b>】button.
+                    </li>
+                </ol>
             </div>
         </div>
     </div>
@@ -33,7 +44,14 @@ folder: orbiscrm.faq
         </div>
         <div id="how-do-i-deactivate-reactivate-a-staff" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                To be added...
+                <ol>
+                    <li>Navigate to the <b>Staff Management</b> > <b>Specific Staff</b> that you want to deactivate / reactivate
+                    </li>
+                    <li>Click the【<b>Deactivate</b>】(or【<b>Activate</b>】)button
+                    </li>
+                    <li>Click the【<b>Confirm</b>】button
+                    </li>
+                </ol>
             </div>
         </div>
     </div>

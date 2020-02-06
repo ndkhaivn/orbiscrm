@@ -202,8 +202,8 @@ folder: orbiscrm.faq
             </div>
             <div class="panel-body">
                 <p>
-                    <a href="faq.visa_type.html#how-do-i-add-edit-delete-a-visa-type">
-                        How do I add/edit/(delete?) a visa type?
+                    <a href="faq.visa_type.html#how-do-i-add-edit-a-visa-type">
+                        How do I add or edit a visa type?
                     </a>
                 </p>
                 <p>                        
