@@ -177,13 +177,13 @@ folder: orbiscrm.faq
                 </div>
                 <div class="panel-body">
                     <p>
-                        <a href="faq.email.html#how-do-i-edit-save-a-field-footer-of-emails">
-                            How do I edit/save a field (footer) of emails?
+                        <a href="faq.email.html#how-do-i-edit-save-the-footer-of-emails">
+                            How do I edit/save the footer of emails?
                         </a>
                     </p>
                     <p>
-                        <a href="faq.email.html#how-do-i-add-edit-delete-an-email-template">
-                            How do I add/edit/delete an email template?
+                        <a href="faq.email.html#how-do-i-add-an-email-template">
+                            How do I add an email template?
                         </a>
                     </p>
                     <p>
