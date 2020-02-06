@@ -154,11 +154,11 @@ folder: orbiscrm.faq
         <div id="how-do-i-add-a-new-application-in-an-enquiry" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
-                    <li>Navigate to the specific【<b>Enquiry</b>】>【<b>Applications</b>】section that you want to arrange the notes
+                    <li>Navigate to the specific【<b>Enquiry</b>】>【<b>Applications</b>】section
                     </li>
                     <li>Click the【<b>+ New Application</b>】button
                     </li>
-                    <li>Confirm the【<b>Customer</b>】
+                    <li>Confirm the【<b>Client</b>】Name
                     </li>
                     <li>Select the【<b>Visa Type</b>】
                     </li>

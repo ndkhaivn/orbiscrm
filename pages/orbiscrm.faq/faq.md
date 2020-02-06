@@ -130,8 +130,8 @@ folder: orbiscrm.faq
                         </a>
                     </p>
                     <p>
-                        <a href="faq.registered_clients.html#how-do-i-add-edit-a-note-for-a-registered-client">
-                            How do I add/edit a note for a registered client?
+                        <a href="faq.registered_clients.html#how-do-i-add-a-note-for-a-registered-client">
+                            How do I add a note for a registered client?
                         </a>
                     </p>
                     <p>
