@@ -108,8 +108,8 @@ folder: orbiscrm.faq
                     </a>
                 </p>
                 <p>
-                    <a href="faq.enquiries.html#how-do-i-add-edit-a-note-of-an-enquiry">
-                        How do I add/edit a note of an enquiry?
+                    <a href="faq.enquiries.html#how-do-i-add-a-note-of-an-enquiry">
+                        How do I add a note of an enquiry?
                     </a>
                 </p>
                 <a href="/faq.enquiries.html" class="btn btn-primary">View More</a>
