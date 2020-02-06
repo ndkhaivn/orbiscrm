@@ -2,7 +2,7 @@
 title: Enquiries
 permalink: faq.enquiries.html
 sidebar: orbis_sidebar
-keywords: enquiries, enquiry
+keywords: enquiries, enquiry, potential, create account, client, application, add, files, Dropbox, reference, personal details
 toc: false
 folder: orbiscrm.faq
 ---
@@ -11,12 +11,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-create-an-account-for-client-from-an-enquiry">
-                    How do I create an account for client from an enquiry?
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-create-an-account-for-a-client-from-an-enquiry">
+                    How do I create an account for a client from an enquiry?
                 </a>
             </h4>
         </div>
-        <div id="how-do-i-create-an-account-for-client-from-an-enquiry" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-create-an-account-for-a-client-from-an-enquiry" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
                     <li>
