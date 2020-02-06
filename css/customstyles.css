@@ -918,6 +918,10 @@ span.soft {
     text-decoration: none;
 }
 
+.anchorjs-link {
+    display: none !important;
+}
+
 .kbCaption {
     color: white;
     background-color: #444;
