@@ -64,23 +64,18 @@ folder: orbiscrm.faq
         <div class="panel-heading">
             <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-edit-a-note-of-a-client">
-                    How do I edit a note of a client?
+                    How do I edit a note for a client?
                 </a>
             </h4>
         </div>
         <div id="how-do-i-edit-a-note-of-a-client" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
-                    <li>Navigate to the【<b>Registered Clients</b>】> <b>Specific Client</b> >【<b>Notes</b>】section that you want to edit the note.
+                    <li>Navigate to the【<b>Registered Clients</b>】> <b>Specific Client</b> >【<b>Notes</b>】section that you want to edit the note
                     </li>
-                    <li>Click in the note content that you want to edit.
-                        <ul>
-                            <li style="font-style: italic">
-                                (When the switch button is【To Arrange】means you are in the <b>Edition</b> mode)
-                            </li>
-                        </ul>
+                    <li>Click in the note content that you want to edit
                     </li>
-                    <li>Type in the content you want to edit.
+                    <li>Type in the content you want to edit
                     </li>
                     <li>Click the【<b>Save</b>】button
                     </li>   
@@ -93,7 +88,7 @@ folder: orbiscrm.faq
         <div class="panel-heading">
             <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-arrange-a-note-of-a-client">
-                    How do I arrange a note of a client?
+                    How do I arrange a note for a client?
                 </a>
             </h4>
         </div>
@@ -102,14 +97,7 @@ folder: orbiscrm.faq
                 <ol>
                     <li>Navigate to the【<b>Registered Clients</b>】> <b>Specific Client</b> >【<b>Notes</b>】section that you want to arrange the notes.
                     </li>
-                    <li>Click the【<b>To Arrange</b>】button.
-                        <ul>
-                            <li style="font-style: italic">
-                                (When the switch button is【To Edit】means you are in the <b>Arranging</b> mode)
-                            </li> 
-                        </ul>
-                    </li>
-                    <li>Click and <span style="color: red">Drag</span> the note to the suitable order that you want to arrange.
+                    <li>Click and <span style="color: red">Drag</span> the note (outside of the content area) to the suitable order that you want to arrange.
                     </li>
                     <li>Click the【<b>Save</b>】button
                     </li>   
