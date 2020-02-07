@@ -20,10 +20,10 @@ folder: orbiscrm.faq
             <div class="panel-body">
                 <ol>
                     <li>
-                        Navigate to the specific【<b>Enquiry</b>】that you want to create account for.
+                        Navigate to the specific【<b>Enquiry</b>】that you want to create an account for
                     </li>
                     <li>
-                        Click the【<b>Create Account</b>】button to create an account for an unregistered client.
+                        Click the【<b>Create Account</b>】button
                         <span style="font-style: italic">
                             (Only applicable to unregistered clients)
                         </span>
@@ -65,7 +65,7 @@ folder: orbiscrm.faq
         <div class="panel-heading">
             <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-a-note-of-an-enquiry">
-                    How do I add a note of an enquiry?
+                    How do I add a note for an enquiry?
                 </a>
             </h4>
         </div>
@@ -89,7 +89,7 @@ folder: orbiscrm.faq
         <div class="panel-heading">
             <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-edit-a-note-of-an-enquiry">
-                    How do I edit a note of an enquiry?
+                    How do I edit a note for an enquiry?
                 </a>
             </h4>
         </div>
@@ -99,11 +99,6 @@ folder: orbiscrm.faq
                     <li>Navigate to the specific【<b>Enquiry</b>】>【<b>Notes</b>】section that you want to edit the note.
                     </li>
                     <li>Click in the note content that you want to edit.
-                        <ul>
-                            <li style="font-style: italic">
-                                (When the switch button is【To Arrange】means you are in the <b>Edition</b> mode)
-                            </li>
-                        </ul>
                     </li>
                     <li>Type in the content you want to edit.
                     </li>
@@ -118,7 +113,7 @@ folder: orbiscrm.faq
         <div class="panel-heading">
             <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-arrange-a-note-of-an-enquiry">
-                    How do I arrange a note of an enquiry?
+                    How do I arrange a note for an enquiry?
                 </a>
             </h4>
         </div>
@@ -127,14 +122,7 @@ folder: orbiscrm.faq
                 <ol>
                     <li>Navigate to the specific【<b>Enquiry</b>】>【<b>Notes</b>】section that you want to arrange the notes.
                     </li>
-                    <li>Click the【<b>To Arrange</b>】button.
-                        <ul>
-                            <li style="font-style: italic">
-                                (When the switch button is【To Edit】means you are in the <b>Arranging</b> mode)
-                            </li> 
-                        </ul>
-                    </li>
-                    <li>Click and <span style="color: red">Drag</span> the note to the suitable order that you want to arrange.
+                    <li>Click and <span style="color: red">Drag</span> the note (outside the text area) to the suitable order that you want to arrange.
                     </li>
                     <li>Click the【<b>Save</b>】button
                     </li>   
