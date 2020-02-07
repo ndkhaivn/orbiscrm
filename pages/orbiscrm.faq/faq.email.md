@@ -69,11 +69,7 @@ folder: orbiscrm.faq
         <div id="how-do-i-insert-client-information-inside-an-email-template" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
-                    <li>When you are adding or editing an email template.
-                    </li>
-                    <li>Insert the <b>First Name</b> or <b>Last Name</b> by corresponding button when you fill in the email subject or body
-                    </li>
-                    <li>E.g. Insert in the email subject<br>
+                    <li>When you want to insert the [First Name] or [Last Name] simply click on the corresponding blue button on the left to add it in<br>
                         <img src="images/email/email_subject.png" alt="email_subject.png" style="width: 100%">
                     </li>
                 </ol>
@@ -94,7 +90,7 @@ folder: orbiscrm.faq
                 <ol>
                     <li>Navigate to the【<b>Email Templates</b>】
                     </li>
-                    <li>Click【Send】<img src="images/email/email_send_btn.png" alt="email_send_btn.png" style="width: 5%">button
+                    <li>Click【Send】<img src="images/email/email_send_btn.png" alt="email_send_btn.png" style="width: 5%"> button
                     </li>
                     <li>Type(or Search) the client email address in <b>To</b> section
                     </li>
