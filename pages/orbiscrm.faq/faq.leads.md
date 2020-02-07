@@ -19,7 +19,7 @@ folder: orbiscrm.faq
         <div id="how-do-i-close-a-lead" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
-                    <li>Navigate to the specific【<b>Open Lead</b>d】that you want to close.
+                    <li>Navigate to the specific【<b>Open Lead</b>】that you want to close.
                     </li>
                     <li>Click the【<b>Close</b>】button
                     </li>
