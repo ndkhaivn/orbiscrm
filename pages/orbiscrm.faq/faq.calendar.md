@@ -80,11 +80,11 @@ folder: orbiscrm.faq
         <div id="how-do-i-link-an-event-to-a-client" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
-                    <li style="font-weight: bold">Type the whole email address (which was not saved in the system)
+                    <li style="font-weight: bold">If the client is unregistered, the whole email address must be type in
                         <span style="font-style: italic; font-weight: normal">(E.g. kevinwang@mailinator.com)</span>
                     </li>
                     <img src="images/calendar/calendar-not-exist-client.png" alt="calendar-not-exist-client.png" style="width: 50%"><br>
-                    <li style="font-weight: bold">Type some key letters and select the email address already saved in the system
+                    <li style="font-weight: bold">If the client is registered, the email will already be saved in the system
                         <span style="font-style: italic; font-weight: normal">(E.g. Type "jo" and select the "johnbush@mailinator.com")</span>
                     </li>
                     <img src="images/calendar/calendar-exist-client.png" alt="calendar-exist-client.png" style="width: 50%"><br>
