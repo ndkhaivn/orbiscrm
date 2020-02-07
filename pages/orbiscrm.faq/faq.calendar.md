@@ -50,7 +50,7 @@ folder: orbiscrm.faq
                     <li style="font-weight: bold">The popup window contains a pre-filled【Title】
                         <span style="font-weight: normal"> [Meeting with]</span>
                     </li>
-                    <li style="font-weight: bold">The popup window contains the corresponding【Start & End Time】</li>
+                    <li style="font-weight: bold">Confirm the【Start & End Time】</li>
                     <img src="images/calendar/calendar-click-drag-period.png" alt="calendar-click-drag-period.png" style="width: 70%"><br>
                     <li style="font-weight: bold">Finalise the【Title】with client name 
                         <span style="font-style: italic; font-weight: normal">(E.g. Meeting with John Bush)</span>
