@@ -32,7 +32,7 @@ folder: orbiscrm.faq
                     </p>
                     <p>
                         <a href="faq.dashboard_report.html#what-shows-in-dashboard-page">
-                            What shows in Dashboard Page?
+                            What shows in the Dashboard Page?
                         </a>
                     </p>
                     <a href="faq.dashboard_report.html" class="btn btn-primary">View More</a>
@@ -47,7 +47,7 @@ folder: orbiscrm.faq
             <div class="panel-body">
                 <p>
                     <a href="faq.calendar.html#what-shows-on-the-calendar-page">
-                        What shows on the Calendar page?
+                        What shows in the Calendar page?
                     </a>
                 </p>
                 <p>
