@@ -71,7 +71,9 @@ folder: orbiscrm.faq
                     </li>
                     <li>Click the【<b>Edit</b>】<img src="images/enquiries/enquiries-edit.png" alt="staff-edit.png" style="width: 4%"> button.
                     </li>
-                    <li>Click the【<b>Confirm</b>】button
+                    <li>Edit the profile information
+                    </li>
+                    <li>Click the【<b>Save</b>】button
                     </li>
                 </ol>
             </div>
