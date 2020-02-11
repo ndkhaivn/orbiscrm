@@ -56,6 +56,28 @@ folder: orbiscrm.faq
         </div>
     </div>
     <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-deactivate-reactivate-a-staff">
+                How do I edit the profile of a staff?
+                </a>
+            </h4>
+        </div>
+        <div id="how-do-i-deactivate-reactivate-a-staff" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <ol>
+                    <li>Navigate to the <b>Staff Management</b> > <b>Specific Staff</b>
+                    </li>
+                    <li>Click the【<b>Edit</b>】<img src="images/enquiries/enquiries-edit.png" alt="staff-edit.png" style="width: 4%"> button.
+                    </li>
+                    <li>Click the【<b>Confirm</b>】button
+                    </li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
 
