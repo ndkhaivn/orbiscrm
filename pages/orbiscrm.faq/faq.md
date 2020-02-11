@@ -94,55 +94,30 @@ folder: orbiscrm.faq
         <div class="col-md-6 col-sm-6">
         <div class="panel panel-default text-center">
             <div class="panel-heading">
-                <h4>Enquiries</h4>
+                <h4>Enquiries / Registered Clients</h4>
             </div>
             <div class="panel-body">
                 <p>
-                    <a href="faq.enquiries.html#how-do-i-create-an-account-for-a-client-from-an-enquiry">
+                    <a href="faq.enquiries_clients.html#how-do-i-create-an-account-for-a-client-from-an-enquiry-a-registered-client">
                         How do I create an account for a client from an enquiry?
                     </a>
                 </p>
                 <p>
-                    <a href="faq.enquiries.html#how-do-i-edit-save-information-in-an-enquiry">
-                        How do I edit/save information in an enquiry?
+                    <a href="faq.enquiries_clients.html#how-do-i-edit-save-information-in-an-enquiry-a-registered-client">
+                        How do I edit/save information in an enquiry(/a registered client)?
                     </a>
                 </p>
                 <p>
-                    <a href="faq.enquiries.html#how-do-i-add-a-note-of-an-enquiry">
-                        How do I add a note of an enquiry?
+                    <a href="faq.enquiries_clients.html#how-do-i-add-a-note-for-an-enquiry-a-registered-client">
+                        How do I add a note for an enquiry(/a registered client)?
                     </a>
                 </p>
-                <a href="/faq.enquiries.html" class="btn btn-primary">View More</a>
+                <a href="/faq.enquiries_clients.html" class="btn btn-primary">View More</a>
             </div>
         </div>
     </div>
     </div>
     <div class="row">
-        <div class="col-md-6 col-sm-6">
-            <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                    <h4>Registered Clients</h4>
-                </div>
-                <div class="panel-body">
-                    <p>
-                        <a href="faq.registered_clients.html#how-do-i-edit-save-information-for-a-registered-client">
-                            How do I edit/save information for a registered client?
-                        </a>
-                    </p>
-                    <p>
-                        <a href="faq.registered_clients.html#how-do-i-add-a-note-for-a-registered-client">
-                            How do I add a note for a registered client?
-                        </a>
-                    </p>
-                    <p>
-                        <a href="faq.registered_clients.html#how-do-i-add-a-new-application-for-a-registered-client">
-                            How do I add a new application for a registered client?
-                        </a>
-                    </p>
-                    <a href="faq.registered_clients.html" class="btn btn-primary">View More</a>
-                </div>
-            </div>
-        </div>
         <div class="col-md-6 col-sm-6">
         <div class="panel panel-default text-center">
             <div class="panel-heading">

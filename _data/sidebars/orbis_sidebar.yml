@@ -43,12 +43,8 @@ entries:
         url: /faq.leads.html
         output: web, pdf
 
-      - title: Enquiries
-        url: /faq.enquiries.html
-        output: web, pdf
-
-      - title: Registered Clients
-        url: /faq.registered_clients.html
+      - title: Enquiries / Registered Clients
+        url: /faq.enquiries_clients.html
         output: web, pdf
 
         subfolders:
