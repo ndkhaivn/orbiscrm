@@ -59,12 +59,12 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-deactivate-reactivate-a-staff">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-edit-the-profile-of-a-staff">
                 How do I edit the profile of a staff?
                 </a>
             </h4>
         </div>
-        <div id="how-do-i-deactivate-reactivate-a-staff" class="panel-collapse collapse noCrossRef">
+        <div id="how-do-i-edit-the-profile-of-a-staff" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
                     <li>Navigate to the <b>Staff Management</b> > <b>Specific Staff</b>
