@@ -11,6 +11,31 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-shows-in-dashboard-page">
+                What shows in the Dashboard Page?
+                </a>
+            </h4>
+        </div>
+        <div id="what-shows-in-dashboard-page" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <img src="images/dashboard_report/dashboard.png" alt="Dashboard" style="width: 80%"><br>
+                <ol>
+                    <li style="font-size: larger; font-weight: bold">【Business Status】</li>
+                        <ul><li>Click on any of the 4 business status to view them in more detail. </li></ul>
+                    <li style="font-size: larger; font-weight: bold">【Application】</li>
+                        <ul><li>Visual representation of application status</li></ul>
+                    <li style="font-size: larger; font-weight: bold">【Business Statistic】</li>
+                        <ul><li>View the chart to compare the Business Statistics between current month and previous month.</li></ul>
+                    <li style="font-size: larger; font-weight: bold">【Pending Tasks】</li>
+                        <ul><li>A reminder table of what tasks are yet to be completed, which can be checked by clicking on them </li></ul>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-shows-in-report-page">
                     What shows in the Report Page?
                 </a>
@@ -77,31 +102,6 @@ folder: orbiscrm.faq
                     <li style="font-weight: bold">Final results will display updated profit, paid and due</li>
                     <img src="images/dashboard_report/custom-date-range-3.png" alt="custom-date-range-3.png" style="width: 80%"><br>
                 </ul>
-            </div>
-        </div>
-    </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-shows-in-dashboard-page">
-                What shows in the Dashboard Page?
-                </a>
-            </h4>
-        </div>
-        <div id="what-shows-in-dashboard-page" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <img src="images/dashboard_report/dashboard.png" alt="Dashboard" style="width: 80%"><br>
-                <ol>
-                    <li style="font-size: larger; font-weight: bold">【Business Status】</li>
-                        <ul><li>Click on any of the 4 business status to view them in more detail. </li></ul>
-                    <li style="font-size: larger; font-weight: bold">【Application】</li>
-                        <ul><li>Visual representation of application status</li></ul>
-                    <li style="font-size: larger; font-weight: bold">【Business Statistic】</li>
-                        <ul><li>View the chart to compare the Business Statistics between current month and previous month.</li></ul>
-                    <li style="font-size: larger; font-weight: bold">【Pending Tasks】</li>
-                        <ul><li>A reminder table of what tasks are yet to be completed, which can be checked by clicking on them </li></ul>
-                </ol>
             </div>
         </div>
     </div>

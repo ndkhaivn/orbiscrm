@@ -11,6 +11,40 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-shows-in-a-closed-lead-page">
+                What shows in a Closed Lead page?
+                </a>
+            </h4>
+        </div>
+        <div id="what-shows-in-a-closed-lead-page" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <img src="images/leads/lead-closed.png" alt="lead-closed.png" style="width: 95%"><br>
+                <ol>
+                    <li>【<b>Navigation</b>】Bar
+                    </li>
+                    <li>Lead【<b>Status</b>】and【<b>Submission Date & Time</b>】
+                    </li>
+                    <li>Lead【<b>Details</b>】
+                        <ul style="font-size: smaller">
+                            <li>Full Name</li>
+                            <li>Phone</li>
+                            <li>Email</li>
+                            <li>Subject</li>
+                            <li>Body</li>
+                        </ul>
+                    </li>
+                    <li>Closed Lead【<b>Reopen</b>】button
+                    </li>
+                    <li>Add/Edit【<b>Note</b>】with <img src="images/leads/icon-note.png" alt="icon-note.png" style="width: 4%">
+                    </li>   
+                </ol>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-close-a-lead">
                     How do I close a lead?
                 </a>
@@ -76,40 +110,7 @@ folder: orbiscrm.faq
         </div>
     </div>
     <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-shows-in-a-closed-lead-page">
-                What shows in a Closed Lead page?
-                </a>
-            </h4>
-        </div>
-        <div id="what-shows-in-a-closed-lead-page" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <img src="images/leads/lead-closed.png" alt="lead-closed.png" style="width: 95%"><br>
-                <ol>
-                    <li>【<b>Navigation</b>】Bar
-                    </li>
-                    <li>Lead【<b>Status</b>】and【<b>Submission Date & Time</b>】
-                    </li>
-                    <li>Lead【<b>Details</b>】
-                        <ul style="font-size: smaller">
-                            <li>Full Name</li>
-                            <li>Phone</li>
-                            <li>Email</li>
-                            <li>Subject</li>
-                            <li>Body</li>
-                        </ul>
-                    </li>
-                    <li>Closed Lead【<b>Reopen</b>】button
-                    </li>
-                    <li>Add/Edit【<b>Note</b>】with <img src="images/leads/icon-note.png" alt="icon-note.png" style="width: 4%">
-                    </li>   
-                </ol>
-            </div>
-        </div>
-    </div>
-    <!-- /.panel -->
+
 </div>
 <!-- /.panel-group -->
 

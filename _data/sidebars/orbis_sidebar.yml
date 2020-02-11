@@ -3,7 +3,7 @@
 entries:
 - title: Orbis CRM FAQ
   product: Orbis CRM FAQ
-  version: 1.0
+  version: 3.0
   folders:
     - title:
       output: pdf

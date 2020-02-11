@@ -11,6 +11,58 @@ folder: orbiscrm.faq
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-shows-in-an-enquiry-page">
+                    What shows in an Enquiry page?
+                </a>
+            </h4>
+        </div>
+        <div id="what-shows-in-an-enquiry-page" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <img src="images/enquiries/enquiry.png" alt="enquiry.png" style="width: 95%"><br>
+                <ol>
+                    <li>【<b>Create Account</b>】Button
+                    </li>
+                    <li> Enquiry【<b>Name</b>】,【<b>Status</b>】,【<b>Reference ID</b>】
+                    </li>
+                    <li>【<b>Notes</b>】Section
+                    </li>
+                    <li>【<b>Applications</b>】Section
+                    </li>
+                    <li>【<b>Navigation</b>】Bar
+                    </li>
+                    <li>【<b>Files</b>】Section
+                    </li>
+                    <li>【<b>Personal Details</b>】Section
+                        <ul style="font-size: smaller">
+                            <li>Full Name</li>
+                            <li>Other Name</li>
+                            <li>Gender</li>
+                            <li>Date of Birth</li>
+                            <li>Relationship Status</li>
+                            <li>Mobile Number</li>
+                            <li>Email Address</li>
+                            <li>Address</li>
+                        </ul>
+                    </li>
+                    <li>【<b>Other Information</b>】Section
+                        <ul style="font-size: smaller">
+                            <li>Passport Number</li>
+                            <li>Country of Passport</li>
+                            <li>Current VISA</li>
+                            <li>Expiry Date</li>
+                            <li>Highest Education Level</li>
+                            <li>Date Completed</li>
+                            <li>VISA Refusal</li>
+                        </ul>
+                    </li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-create-an-account-for-a-client-from-an-enquiry">
                     How do I create an account for a client from an enquiry?
                 </a>
@@ -157,58 +209,7 @@ folder: orbiscrm.faq
         </div>
     </div>
     <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-shows-in-an-enquiry-page">
-                    What shows in an Enquiry page?
-                </a>
-            </h4>
-        </div>
-        <div id="what-shows-in-an-enquiry-page" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <img src="images/enquiries/enquiry.png" alt="enquiry.png" style="width: 95%"><br>
-                <ol>
-                    <li>【<b>Create Account</b>】Button
-                    </li>
-                    <li> Enquiry【<b>Name</b>】,【<b>Status</b>】,【<b>Reference ID</b>】
-                    </li>
-                    <li>【<b>Notes</b>】Section
-                    </li>
-                    <li>【<b>Applications</b>】Section
-                    </li>
-                    <li>【<b>Navigation</b>】Bar
-                    </li>
-                    <li>【<b>Files</b>】Section
-                    </li>
-                    <li>【<b>Personal Details</b>】Section
-                        <ul style="font-size: smaller">
-                            <li>Full Name</li>
-                            <li>Other Name</li>
-                            <li>Gender</li>
-                            <li>Date of Birth</li>
-                            <li>Relationship Status</li>
-                            <li>Mobile Number</li>
-                            <li>Email Address</li>
-                            <li>Address</li>
-                        </ul>
-                    </li>
-                    <li>【<b>Other Information</b>】Section
-                        <ul style="font-size: smaller">
-                            <li>Passport Number</li>
-                            <li>Country of Passport</li>
-                            <li>Current VISA</li>
-                            <li>Expiry Date</li>
-                            <li>Highest Education Level</li>
-                            <li>Date Completed</li>
-                            <li>VISA Refusal</li>
-                        </ul>
-                    </li>
-                </ol>
-            </div>
-        </div>
-    </div>
-    <!-- /.panel -->
+
 </div>
 <!-- /.panel-group -->
 
