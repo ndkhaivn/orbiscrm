@@ -258,6 +258,9 @@ folder: orbiscrm.faq
                     </a>
                 </p>
                 <p>
+                    <a href="faq.staff_management.html#how-do-i-edit-the-profile-of-a-staff">
+                        How do I edit the profile of a staff?
+                    </a>
                 </p>
                 <a href="faq.staff_management.html" class="btn btn-primary">View More</a>
             </div>
