@@ -2,7 +2,7 @@
 title: Enquiries / Registered Clients
 permalink: faq.enquiries_clients.html
 sidebar: orbis_sidebar
-keywords: enquiries, enquiry, potential, create account, client, application, add, files, Dropbox, reference, personal details, unregistered, client, registered
+keywords: enquiries, enquiry, potential, create account, client, application, add, files, Dropbox, reference, personal details, unregistered, client, registered, sync, folder, link
 toc: false
 folder: orbiscrm.faq
 ---
@@ -266,7 +266,59 @@ folder: orbiscrm.faq
         </div>
     </div>
     <!-- /.panel -->
-
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-create-a-folder-for-a-client">
+                    How do I create a folder for a client (sync to Dropbox)?
+                </a>
+            </h4>
+        </div>
+        <div id="how-do-i-create-a-folder-for-a-client" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <ol>
+                    <li>Navigate to the specific <b>Enquiry</b> > <b>Files</b> section<br>
+                        (<b>OR</b> Navigate to the specific <b>Client</b> > <b>Files</b> section
+                    </li>
+                    <li>Click the【<b>+ New Folder</b>】<img src="/images/create_folder_btn.png" style="width: 5%;"> button
+                    </li>
+                    <li>Confirm the <b>Client Name</b>
+                    </li>
+                    <li>Confirm(/Edit) the <b>Folder Name</b><br>
+                        <span style="font-style: italic">(Folder Name will be generated automatically in the following format: MELXXXX_FirstName_LastName)</span>
+                    </li>
+                    <li>Click the【<b>Create</b>】button
+                    </li>   
+                </ol>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-link-a-client-to-an-existing-folder-in-dropbox">
+                    How do I link a client to an existing folder in Dropbox?
+                </a>
+            </h4>
+        </div>
+        <div id="how-do-i-link-a-client-to-an-existing-folder-in-dropbox" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <ol>
+                    <li>Navigate to the specific <b>Enquiry</b> > <b>Files</b> section<br>
+                        (<b>OR</b> Navigate to the specific <b>Client</b> > <b>Files</b> section
+                    </li>
+                    <li>Click the【<b>+ New Link</b>】<img src="/images/link_folder_btn.png" style="width: 5%;"> button
+                    </li>
+                    <li>Choose the folder in pop-up Dropbox window
+                    </li>
+                    <li>Click the【<b>Choose</b>】button
+                    </li>   
+                </ol>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
 
