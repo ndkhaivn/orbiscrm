@@ -198,19 +198,22 @@ folder: orbiscrm.faq
         <div class="col-md-6 col-sm-6">
         <div class="panel panel-default text-center">
             <div class="panel-heading">
-                <h4>Visa Type</h4>
+                <h4>Visa Type / Framework</h4>
             </div>
             <div class="panel-body">
                 <p>
-                    <a href="faq.visa_type.html#how-do-i-add-edit-a-visa-type">
-                        How do I add or edit a visa type?
+                    <a href="faq.visa_type_framework.html#how-do-i-add-edit-a-visa-type">
+                        How do I add/edit a visa type?
                     </a>
                 </p>
-                <p>                        
+                <p>
+                    <a href="faq.visa_type_framework.html#how-do-i-add-edit-a-new-checklist-template">
+                        How do I add/edit a new checklist template?
+                    </a>
                 </p>
                 <p>
                 </p>
-                <a href="faq.visa_type.html" class="btn btn-primary">View More</a>
+                <a href="faq.visa_type_framework.html" class="btn btn-primary">View More</a>
             </div>
         </div>
     </div>

@@ -75,8 +75,8 @@ entries:
         url: /faq.email.html
         output: web, pdf
 
-      - title: Visa Type
-        url: /faq.visa_type.html
+      - title: Visa Type / Framework
+        url: /faq.visa_type_framework.html
         output: web, pdf
 
         subfolders:
