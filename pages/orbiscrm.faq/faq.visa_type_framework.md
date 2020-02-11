@@ -1,5 +1,5 @@
 ---
-title: Visa Type
+title: Visa Type / Framework
 permalink: faq.visa_type_framework.html
 sidebar: orbis_sidebar
 keywords: visa, visa type, type, framework, item, checklist, template
