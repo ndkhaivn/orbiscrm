@@ -98,7 +98,7 @@ folder: orbiscrm.faq
             </div>
             <div class="panel-body">
                 <p>
-                    <a href="faq.enquiries_clients.html#how-do-i-create-an-account-for-a-client-from-an-enquiry-a-registered-client">
+                    <a href="faq.enquiries_clients.html#how-do-i-create-an-account-for-a-client-from-an-enquiry">
                         How do I create an account for a client from an enquiry?
                     </a>
                 </p>
