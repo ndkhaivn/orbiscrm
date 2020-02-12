@@ -2,7 +2,7 @@
 title: Applications - Form
 permalink: faq.applications_form.html
 sidebar: orbis_sidebar
-keywords: form, release, release a form, release form
+keywords: form, release, release a form, release form, form release
 toc: false
 folder: orbiscrm.faq
 ---

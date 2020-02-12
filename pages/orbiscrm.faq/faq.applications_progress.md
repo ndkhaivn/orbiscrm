@@ -109,11 +109,10 @@ folder: orbiscrm.faq
                 </a>
             </h4>
         </div>
-        <div id="how-do-i-set-up-a-reminder">
+        <div id="how-do-i-set-up-a-reminder" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
-                    <li>The【Bell】<img src="images/applications/progress/bell.png"> icon will appear, 
-                        after you <b>SAVED</b> the new tasks(items) you added and <b>RELOAD</b> the page
+                    <li>The【Bell】<img src="images/applications/progress/bell.png"> icon will appear, after you <b>SAVED</b> the new tasks(items) you added and <b>RELOAD</b> the page
                     </li>
                     <li>Click the【Bell】<img src="images/applications/progress/bell.png"> icon
                     </li>
@@ -124,7 +123,8 @@ folder: orbiscrm.faq
                             <li>High</li>
                         </ul>
                     </li>
-                    <li>Click the【<b>Save Event</b>】button</li>
+                    <li>Click the【<b>Save Event</b>】button
+                    </li>
                     <li>The corresponding reminder will appear on the <b>Dashboard</b> > <b>Pending Tasks</b> section
                     </li>
                 </ol>

@@ -40,30 +40,30 @@ folder: orbiscrm.faq
             </div>
         </div>
         <div class="col-md-6 col-sm-6">
-        <div class="panel panel-default text-center">
-            <div class="panel-heading">
-                <h4>Calendar</h4>
+            <div class="panel panel-default text-center">
+                <div class="panel-heading">
+                    <h4>Calendar</h4>
+                </div>
+                <div class="panel-body">
+                    <p>
+                        <a href="faq.calendar.html#what-shows-on-the-calendar-page">
+                            What shows in the Calendar page?
+                        </a>
+                    </p>
+                    <p>
+                        <a href="faq.calendar.html#how-do-i-add-a-new-event-more-quickly-by-dragging">
+                            How do I add a new event (more quickly) by dragging?
+                        </a>
+                    </p>
+                    <p>
+                        <a href="faq.calendar.html#how-do-i-link-an-event-to-a-client">
+                            How do I link an event to a client?
+                        </a>
+                    </p>
+                    <a href="faq.calendar.html" class="btn btn-primary">View More</a>
+                </div>
             </div>
-            <div class="panel-body">
-                <p>
-                    <a href="faq.calendar.html#what-shows-on-the-calendar-page">
-                        What shows in the Calendar page?
-                    </a>
-                </p>
-                <p>
-                    <a href="faq.calendar.html#how-do-i-add-a-new-event-more-quickly-by-dragging">
-                        How do I add a new event (more quickly) by dragging?
-                    </a>
-                </p>
-                <p>
-                    <a href="faq.calendar.html#how-do-i-link-an-event-to-a-client">
-                        How do I link an event to a client?
-                    </a>
-                </p>
-                <a href="faq.calendar.html" class="btn btn-primary">View More</a>
-            </div>
-        </div>
-    </div>        
+        </div>        
     </div>
     <div class="row">
         <div class="col-md-6 col-sm-6">
@@ -92,59 +92,57 @@ folder: orbiscrm.faq
             </div>
         </div>
         <div class="col-md-6 col-sm-6">
-        <div class="panel panel-default text-center">
-            <div class="panel-heading">
-                <h4>Enquiries / Registered Clients</h4>
-            </div>
-            <div class="panel-body">
-                <p>
-                    <a href="faq.enquiries_clients.html#how-do-i-create-an-account-for-a-client-from-an-enquiry">
-                        How do I create an account for a client from an enquiry?
-                    </a>
-                </p>
-                <p>
-                    <a href="faq.enquiries_clients.html#how-do-i-edit-save-information-in-an-enquiry-a-registered-client">
-                        How do I edit/save information in an enquiry(/a registered client)?
-                    </a>
-                </p>
-                <p>
-                    <a href="faq.enquiries_clients.html#how-do-i-add-a-note-for-an-enquiry-a-registered-client">
-                        How do I add a note for an enquiry(/a registered client)?
-                    </a>
-                </p>
-                <a href="faq.enquiries_clients.html" class="btn btn-primary">View More</a>
+            <div class="panel panel-default text-center">
+                <div class="panel-heading">
+                    <h4>Enquiries / Registered Clients</h4>
+                </div>
+                <div class="panel-body">
+                    <p>
+                        <a href="faq.enquiries_clients.html#how-do-i-create-an-account-for-a-client-from-an-enquiry">
+                            How do I create an account for a client from an enquiry?
+                        </a>
+                    </p>
+                    <p>
+                        <a href="faq.enquiries_clients.html#how-do-i-edit-save-information-in-an-enquiry-a-registered-client">
+                            How do I edit/save information in an enquiry(/a registered client)?
+                        </a>
+                    </p>
+                    <p>
+                        <a href="faq.enquiries_clients.html#how-do-i-add-a-note-for-an-enquiry-a-registered-client">
+                            How do I add a note for an enquiry(/a registered client)?
+                        </a>
+                    </p>
+                    <a href="faq.enquiries_clients.html" class="btn btn-primary">View More</a>
+                </div>
             </div>
         </div>
-    </div>
     </div>
     <div class="row">
         <div class="col-md-6 col-sm-6">
-        <div class="panel panel-default text-center">
-            <div class="panel-heading">
-                <h4>Applications</h4>
-            </div>
-            <div class="panel-body">
-                <p>
-                    <a href="faq.applications.html#how-do-i-add-edit-the-reference-number-for-an-application">
-                        How do I add/edit the reference number for an application?
-                    </a>
-                </p>
-                <p>
-                    <a href="faq.applications.html#how-do-i-change-the-status-of-an-application">
-                        How do I change the status of an application?
-                    </a>
-                </p>
-                <p>
-                    <a href="faq.applications.html#what-shows-in-the-application-page">
-                        What shows in the Application page?
-                    </a>
-                </p>
-                <a href="faq.applications.html" class="btn btn-primary">View More</a>
+            <div class="panel panel-default text-center">
+                <div class="panel-heading">
+                    <h4>Applications</h4>
+                </div>
+                <div class="panel-body">
+                    <p>
+                        <a href="faq.applications.html#how-do-i-add-edit-the-reference-number-for-an-application">
+                            How do I add/edit an immiAccount reference number for an application?
+                        </a>
+                    </p>
+                    <p>
+                        <a href="faq.applications.html#how-do-i-change-the-status-for-an-application">
+                            How do I change the status for an application?
+                        </a>
+                    </p>
+                    <p>
+                        <a href="faq.applications_progress.html#how-do-i-set-up-a-reminder">
+                            How do I set up a reminder for a task(/item/progress) in an application?
+                        </a>
+                    </p>
+                    <a href="faq.applications.html" class="btn btn-primary">View More</a>
+                </div>
             </div>
         </div>
-    </div>
-    </div>
-    <div class="row">
         <div class="col-md-6 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
@@ -170,30 +168,30 @@ folder: orbiscrm.faq
                 </div>
             </div>
         </div>
+    </div>
+    <div class="row">
         <div class="col-md-6 col-sm-6">
-        <div class="panel panel-default text-center">
-            <div class="panel-heading">
-                <h4>Visa Type / Framework</h4>
-            </div>
-            <div class="panel-body">
-                <p>
-                    <a href="faq.visa_type_framework.html#how-do-i-add-edit-a-visa-type">
-                        How do I add/edit a visa type?
-                    </a>
-                </p>
-                <p>
-                    <a href="faq.visa_type_framework.html#how-do-i-add-edit-a-new-checklist-template">
-                        How do I add/edit a new checklist template?
-                    </a>
-                </p>
-                <p>
-                </p>
-                <a href="faq.visa_type_framework.html" class="btn btn-primary">View More</a>
+            <div class="panel panel-default text-center">
+                <div class="panel-heading">
+                    <h4>Visa Type / Framework</h4>
+                </div>
+                <div class="panel-body">
+                    <p>
+                        <a href="faq.visa_type_framework.html#how-do-i-add-edit-a-visa-type">
+                            How do I add/edit a visa type?
+                        </a>
+                    </p>
+                    <p>
+                        <a href="faq.visa_type_framework.html#how-do-i-add-edit-a-new-checklist-template">
+                            How do I add/edit a new checklist template?
+                        </a>
+                    </p>
+                    <p>
+                    </p>
+                    <a href="faq.visa_type_framework.html" class="btn btn-primary">View More</a>
+                </div>
             </div>
         </div>
-    </div>
-    </div>        
-    <div class="row">
         <div class="col-md-6 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
@@ -219,31 +217,33 @@ folder: orbiscrm.faq
                 </div>
             </div>
         </div>
+    </div>        
+    <div class="row">
         <div class="col-md-6 col-sm-6">
-        <div class="panel panel-default text-center">
-            <div class="panel-heading">
-                <h4>Staff Management</h4>
-            </div>
-            <div class="panel-body">
-                <p>
-                    <a href="faq.staff_management.html#how-do-i-add-a-new-staff">
-                        How do I add a new staff?
-                    </a>
-                </p>
-                <p>
-                    <a href="faq.staff_management.html#how-do-i-deactivate-reactivate-a-staff">
-                        How do I deactivate/reactivate a staff?
-                    </a>
-                </p>
-                <p>
-                    <a href="faq.staff_management.html#how-do-i-edit-the-profile-of-a-staff">
-                        How do I edit the profile of a staff?
-                    </a>
-                </p>
-                <a href="faq.staff_management.html" class="btn btn-primary">View More</a>
+            <div class="panel panel-default text-center">
+                <div class="panel-heading">
+                    <h4>Staff Management</h4>
+                </div>
+                <div class="panel-body">
+                    <p>
+                        <a href="faq.staff_management.html#how-do-i-add-a-new-staff">
+                            How do I add a new staff?
+                        </a>
+                    </p>
+                    <p>
+                        <a href="faq.staff_management.html#how-do-i-deactivate-reactivate-a-staff">
+                            How do I deactivate/reactivate a staff?
+                        </a>
+                    </p>
+                    <p>
+                        <a href="faq.staff_management.html#how-do-i-edit-the-profile-of-a-staff">
+                            How do I edit the profile of a staff?
+                        </a>
+                    </p>
+                    <a href="faq.staff_management.html" class="btn btn-primary">View More</a>
+                </div>
             </div>
         </div>
-    </div>
     </div>
 </div>
 
