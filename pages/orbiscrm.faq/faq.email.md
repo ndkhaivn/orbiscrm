@@ -19,7 +19,7 @@ folder: orbiscrm.faq
         <div id="how-do-i-edit-save-the-footer-of-emails" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
-                    <li>Navigate to the【<b>Email Templates</b>】>【<b>Footer Settings</b>】> <b>Orbis Advisors Information</b> section
+                    <li>Navigate to the <b>Email Templates</b> > <b>Footer Settings</b> > <b>Orbis Advisors Information</b> section
                     </li>
                     <li>Edit the information
                     </li>
@@ -41,7 +41,7 @@ folder: orbiscrm.faq
         <div id="how-do-i-add-an-email-template" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
-                    <li>Navigate to the【<b>Email Templates</b>】
+                    <li>Navigate to the <b>Email Templates</b> page
                     </li>
                     <li>Click the【<b>+ New Template</b>】button
                     </li>
@@ -88,15 +88,15 @@ folder: orbiscrm.faq
         <div id="how-do-i-send-an-email-to-a-client" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
-                    <li>Navigate to the【<b>Email Templates</b>】
+                    <li>Navigate to the <b>Email Templates</b> page
                     </li>
-                    <li>Click【Send】<img src="images/email/email_send_btn.png" alt="email_send_btn.png" style="width: 5%"> button
+                    <li>Click the【Send】<img src="images/email/email_send_btn.png" alt="email_send_btn.png" style="width: 5%"> button
                     </li>
                     <li>Type(or Search) the client email address in <b>To</b> section
                     </li>
-                    <li>Click【Preview】<img src="images/email/email_preview_btn.png" alt="email_preview_btn.png" style="width: 5%"> button to confirm the content
+                    <li>Click the【Preview】<img src="images/email/email_preview_btn.png" alt="email_preview_btn.png" style="width: 5%"> button to confirm the content
                     </li>
-                    <li>Click【Send】button
+                    <li>Click the【Send】button
                     </li>
                 </ol>
             </div>
@@ -114,11 +114,11 @@ folder: orbiscrm.faq
         <div id="how-do-i-preview-an-email" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
                 <ol>
-                    <li>Navigate to the【<b>Email Templates</b>】
+                    <li>Navigate to the <b>Email Templates</b> page
                     </li>
-                    <li>Click【Preview】<img src="images/email/email_preview_btn.png" alt="email_preview_btn.png" style="width: 5%"> button
+                    <li>Click the【Preview】<img src="images/email/email_preview_btn.png" alt="email_preview_btn.png" style="width: 5%"> button
                     </li>
-                    <li>Example Preview shows in a new browser tab<br>
+                    <li>Example preview shows in a new browser tab<br>
                     <img src="images/email/email-preview.png" alt="email-preview.png" style="width: 50%">
                     </li>
                 </ol>
