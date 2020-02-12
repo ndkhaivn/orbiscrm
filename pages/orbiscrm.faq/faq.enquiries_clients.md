@@ -280,7 +280,7 @@ folder: orbiscrm.faq
                     <li>Navigate to the specific <b>Enquiry</b> > <b>Files</b> section<br>
                         (<b>OR</b> Navigate to the specific <b>Client</b> > <b>Files</b> section
                     </li>
-                    <li>Click the【<b>+ New Folder</b>】<img src="/images/create_folder_btn.png" style="width: 5%;"> button
+                    <li>Click the【<b>+ New Folder</b>】<img src="images/create_folder_btn.png" style="width: 5%;"> button
                     </li>
                     <li>Confirm the <b>Client Name</b>
                     </li>
@@ -308,7 +308,7 @@ folder: orbiscrm.faq
                     <li>Navigate to the specific <b>Enquiry</b> > <b>Files</b> section<br>
                         (<b>OR</b> Navigate to the specific <b>Client</b> > <b>Files</b> section
                     </li>
-                    <li>Click the【<b>+ New Link</b>】<img src="/images/link_folder_btn.png" style="width: 5%;"> button
+                    <li>Click the【<b>+ New Link</b>】<img src="images/link_folder_btn.png" style="width: 5%;"> button
                     </li>
                     <li>Choose the folder in pop-up Dropbox window
                     </li>

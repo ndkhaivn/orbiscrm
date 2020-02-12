@@ -112,7 +112,7 @@ folder: orbiscrm.faq
                         How do I add a note for an enquiry(/a registered client)?
                     </a>
                 </p>
-                <a href="/faq.enquiries_clients.html" class="btn btn-primary">View More</a>
+                <a href="faq.enquiries_clients.html" class="btn btn-primary">View More</a>
             </div>
         </div>
     </div>
