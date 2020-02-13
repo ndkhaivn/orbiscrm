@@ -20,7 +20,7 @@ folder: orbiscrm.faq
             <div class="panel-body">
                 <ol>
                     <li>Navigate to the specific <b>Form</b> from <b>Forms List</b></li>
-                    <li>Click the【<b>Edit</b>】<img src="/images/edit.png" style="width: 4%"> button</li>
+                    <li>Click the【<b>Edit</b>】<img src="images/edit.png" style="width: 4%"> button</li>
                     <li>Rename the form</li>
                     <li>Click the【<b>Save Form</b>】button</li>
                 </ol>
@@ -40,7 +40,7 @@ folder: orbiscrm.faq
             <div class="panel-body">
                 <ul>
                     <li>Navigate to the specific <b>Form</b> from <b>Forms List</b></li>
-                    <li>Click the <b>(Duplicate)</b> <img src="/images/duplicate_btn.png" style="width: 4%"> icon</li>
+                    <li>Click the <b>(Duplicate)</b> <img src="images/duplicate_btn.png" style="width: 4%"> icon</li>
                     <li>Click the【<b>Confirm</b>】button</li>
                 </ul>
             </div>
@@ -81,7 +81,7 @@ folder: orbiscrm.faq
             <div class="panel-body">
                 <ul>
                     <li>Navigate to the specific <b>Form</b> from <b>Forms List</b></li>
-                    <li>Click the【<b>Edit</b>】<img src="/images/edit.png" style="width: 4%"> button</li>
+                    <li>Click the【<b>Edit</b>】<img src="images/edit.png" style="width: 4%"> button</li>
                 </ul>
             </div>
         </div>
