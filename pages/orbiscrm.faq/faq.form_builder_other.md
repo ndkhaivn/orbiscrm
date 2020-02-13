@@ -7,23 +7,15 @@ toc: false
 folder: orbiscrm.faq
 ---
 
-<div class="panel-group" id="accordion">
-     <div class="panel panel-default">
-         <div class="panel-heading">
-             <h4 class="panel-title">
-                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#file">
-                     <b>File</b> Component
-                 </a>
-             </h4>
-         </div>
-         <div id="file" class="panel-collapse collapse noCrossRef">
-             <div class="panel-body">
-                To be added..
-             </div>
-         </div>
-     </div>
-     <!-- /.panel -->
+<ul id="profileTabs" class="nav nav-tabs">
+    <li><a href="#file" data-toggle="tab">File</a></li>
+</ul>
+<div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="file">
+        <div class="panel-group" id="accordion">
+        </div>
+        <!-- /.panel-group -->
+    </div>
 </div>
-<!-- /.panel-group -->
 
 {% include links.html %}

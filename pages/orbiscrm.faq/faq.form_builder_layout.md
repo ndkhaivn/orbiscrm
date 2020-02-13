@@ -7,143 +7,87 @@ toc: false
 folder: orbiscrm.faq
 ---
 
-<div class="panel-group" id="accordion">
-     <div class="panel panel-default">
-         <div class="panel-heading">
-             <h4 class="panel-title">
-                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#panel">
-                     <b>Panel(/Page)</b> Component
-                 </a>
-             </h4>
-         </div>
-         <div id="panel" class="panel-collapse collapse noCrossRef">
-             <div class="panel-body">
-                To be added..
-             </div>
-         </div>
-     </div>
-     <!-- /.panel -->
-     <div class="panel panel-default">
-         <div class="panel-heading">
-             <h4 class="panel-title">
-                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#html-element">
-                     <b>HTML Element</b> Component
-                 </a>
-             </h4>
-         </div>
-         <div id="html-element" class="panel-collapse collapse noCrossRef">
-             <div class="panel-body">
-                To be added..
-             </div>
-         </div>
-     </div>
-     <!-- /.panel -->
-     <div class="panel panel-default">
-         <div class="panel-heading">
-             <h4 class="panel-title">
-                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#content">
-                     <b>Content</b> Component
-                 </a>
-             </h4>
-         </div>
-         <div id="content" class="panel-collapse collapse noCrossRef">
-             <div class="panel-body">
-                To be added..
-             </div>
-         </div>
-     </div>
-     <!-- /.panel -->
-     <div class="panel panel-default">
-         <div class="panel-heading">
-             <h4 class="panel-title">
-                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#columns">
-                     <b>Columns</b> Component
-                 </a>
-             </h4>
-         </div>
-         <div id="columns" class="panel-collapse collapse noCrossRef">
-             <div class="panel-body">
-                To be added..
-             </div>
-         </div>
-     </div>
-     <!-- /.panel -->
-     <div class="panel panel-default">
-         <div class="panel-heading">
-             <h4 class="panel-title">
-                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#field-set">
-                     <b>Field Set</b> Component
-                 </a>
-             </h4>
-         </div>
-         <div id="field-set" class="panel-collapse collapse noCrossRef">
-             <div class="panel-body">
-                To be added..
-             </div>
-         </div>
-     </div>
-     <!-- /.panel -->
-     <div class="panel panel-default">
-         <div class="panel-heading">
-             <h4 class="panel-title">
-                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#panel">
-                     <b>Panel</b> Component
-                 </a>
-             </h4>
-         </div>
-         <div id="panel" class="panel-collapse collapse noCrossRef">
-             <div class="panel-body">
-                To be added..
-             </div>
-         </div>
-     </div>
-     <!-- /.panel -->
-     <div class="panel panel-default">
-         <div class="panel-heading">
-             <h4 class="panel-title">
-                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#table">
-                     <b>Table</b> Component
-                 </a>
-             </h4>
-         </div>
-         <div id="table" class="panel-collapse collapse noCrossRef">
-             <div class="panel-body">
-                To be added..
-             </div>
-         </div>
-     </div>
-     <!-- /.panel -->
-     <div class="panel panel-default">
-         <div class="panel-heading">
-             <h4 class="panel-title">
-                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#tabs">
-                     <b>Tabs</b> Component
-                 </a>
-             </h4>
-         </div>
-         <div id="tabs" class="panel-collapse collapse noCrossRef">
-             <div class="panel-body">
-                To be added..
-             </div>
-         </div>
-     </div>
-     <!-- /.panel -->
-     <div class="panel panel-default">
-         <div class="panel-heading">
-             <h4 class="panel-title">
-                 <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#well">
-                     <b>Well</b> Component
-                 </a>
-             </h4>
-         </div>
-         <div id="well" class="panel-collapse collapse noCrossRef">
-             <div class="panel-body">
-                To be added..
-             </div>
-         </div>
-     </div>
-     <!-- /.panel -->
+<ul id="profileTabs" class="nav nav-tabs">
+    <li><a href="#html-element" data-toggle="tab">HTML Element</a></li>
+    <li><a href="#content" data-toggle="tab">Content</a></li>
+    <li><a href="#columns" data-toggle="tab">Columns</a></li>
+    <li><a href="#field-set" data-toggle="tab">Field Set</a></li>
+    <li><a href="#panel-page" data-toggle="tab">Panel / Page</a></li>
+    <li><a href="#table" data-toggle="tab">Table</a></li>
+    <li><a href="#tabs" data-toggle="tab">Tabs</a></li>
+    <li><a href="#well" data-toggle="tab">Well</a></li>
+</ul>
+<div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="html-element">
+        <div class="panel-group" id="accordion">
+        </div>
+        <!-- /.panel-group -->
+    </div>
+    <div role="tabpanel" class="tab-pane" id="content">
+        <div class="panel-group" id="accordion">
+        </div>
+        <!-- /.panel-group -->
+    </div>
+    <div role="tabpanel" class="tab-pane" id="columns">
+        <div class="panel-group" id="accordion">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-multiple-columns-in-a-same-row">
+                            How do I add multiple components(columns) in a same row?
+                        </a>
+                    </h4>
+                </div>
+                <div id="how-do-i-add-multiple-columns-in-a-same-row" class="panel-collapse collapse noCrossRef">
+                    <div class="panel-body">
+                        To be added...
+                    </div>
+                </div>
+            </div>
+            <!-- /.panel -->
+        </div>
+        <!-- /.panel-group -->
+    </div>
+    <div role="tabpanel" class="tab-pane" id="field-set">
+        <div class="panel-group" id="accordion">
+        </div>
+        <!-- /.panel-group -->
+    </div>
+    <div role="tabpanel" class="tab-pane" id="panel-page">
+        <div class="panel-group" id="accordion">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-change-title-theme-colour-for-a-page">
+                            How do I change title/theme(colour) for a page(panel) in a form?
+                        </a>
+                    </h4>
+                </div>
+                <div id="how-do-i-change-title-theme-colour-for-a-page" class="panel-collapse collapse noCrossRef">
+                    <div class="panel-body">
+                        To be added...
+                    </div>
+                </div>
+            </div>
+            <!-- /.panel -->
+        </div>
+        <!-- /.panel-group -->
+    </div>
+    <div role="tabpanel" class="tab-pane" id="table">
+        <div class="panel-group" id="accordion">
+        </div>
+        <!-- /.panel-group -->
+    </div>
+    <div role="tabpanel" class="tab-pane" id="tabs">
+        <div class="panel-group" id="accordion">
+        </div>
+        <!-- /.panel-group -->
+    </div>
+    <div role="tabpanel" class="tab-pane" id="well">
+        <div class="panel-group" id="accordion">
+        </div>
+        <!-- /.panel-group -->
+    </div>
 </div>
-<!-- /.panel-group -->
 
 {% include links.html %}

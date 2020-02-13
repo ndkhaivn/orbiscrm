@@ -6,33 +6,68 @@ keywords: form builder
 toc: false
 folder: orbiscrm.faq
 ---
-
-<div class="panel-group" id="accordion">
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-can-i-do-in-a-component">
-                    What can I do in a component?
-                </a>
-            </h4>
-        </div>
-        <div id="what-can-i-do-in-a-component" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                Click the <b>(Edit)</b> <img src="images/edit_icon.png" style="width: 3%"> icon to set more details for the component in a pop-up window, including:
-                <ul>
-                    <li><b>Display</b> Section</li>
-                    <li><b>File</b> Section</li>
-                    <li><b>Data</b> Section</li>
-                    <li><b>Validation</b> Section</li>
-                    <li><b>Logic</b> Section</li>
-                    <li><b>Preview</b> Section</li>
-                    <li><b>Help</b> Section</li>
-                </ul>
-                For more details or technical help, click the <b><a href="https://help.form.io/userguide/" target="_blank">Help</a></b> in the top-right corner of the pop-up window
+Click the <b>(Edit)</b> <img src="images/edit_icon.png" style="width: 3%"> icon to set more details for the component in a pop-up window, including:
+<ul id="profileTabs" class="nav nav-tabs">
+    <li><a href="#display" data-toggle="tab">Display</a></li>
+    <li><a href="#file" data-toggle="tab">File</a></li>
+    <li><a href="#tab" data-toggle="tab">Data</a></li>
+    <li><a href="#validation" data-toggle="tab">Validation</a></li>
+    <li><a href="#logic" data-toggle="tab">Logic</a></li>
+    <li><a href="#preview" data-toggle="tab">Preview</a></li>
+    <li><a href="#help" data-toggle="tab">Help</a></li>
+</ul>
+<div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="display">
+        To be added...
+    </div>
+    <div role="tabpanel" class="tab-pane" id="file">
+        To be added...
+    </div>
+    <div role="tabpanel" class="tab-pane" id="tab">
+        To be added...
+    </div>
+    <div role="tabpanel" class="tab-pane" id="validation">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-make-a-component-required">
+                        How do I make a component become compulsory/required/unique?
+                    </a>
+                </h4>
+            </div>
+            <div id="how-do-i-make-a-component-required" class="panel-collapse collapse noCrossRef">
+                <div class="panel-body">
+                    To be added...
+                </div>
             </div>
         </div>
+        <!-- /.panel -->
     </div>
-    <!-- /.panel -->
+    <div role="tabpanel" class="tab-pane" id="logic">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-change-a-component-display-logic">
+                        How do I configure a question to only display/hide based on a user’s response to a previous question?
+                    </a>
+                </h4>
+            </div>
+            <div id="how-do-i-change-a-component-display-logic" class="panel-collapse collapse noCrossRef">
+                <div class="panel-body">
+                    To be added...
+                </div>
+            </div>
+        </div>
+        <!-- /.panel -->
+    </div>
+    <div role="tabpanel" class="tab-pane" id="preview">
+        To be added...
+    </div>
+    <div role="tabpanel" class="tab-pane" id="help">
+        For more details or technical help, click the <b><a href="https://help.form.io/userguide/" target="_blank">Help</a></b> in the top-right corner of the pop-up window
+    </div>
+</div>
+<div class="panel-group" id="accordion">
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">

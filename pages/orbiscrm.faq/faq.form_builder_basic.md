@@ -7,212 +7,63 @@ toc: false
 folder: orbiscrm.faq
 ---
 
-<div class="panel-group" id="accordion">
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#text-field">
-                    <b>Text Field</b> Component
-                </a>
-            </h4>
+<ul id="profileTabs" class="nav nav-tabs">
+    <li><a href="#text-field" data-toggle="tab">Text Field</a></li>
+    <li><a href="#text-area" data-toggle="tab">Text Area</a></li>
+    <li><a href="#number" data-toggle="tab">Number</a></li>
+    <li><a href="#password" data-toggle="tab">Password</a></li>
+    <li><a href="#checkbox" data-toggle="tab">Checkbox</a></li>
+    <li><a href="#select-boxes" data-toggle="tab">Select Boxes</a></li>
+    <li><a href="#select" data-toggle="tab">Select</a></li>
+    <li><a href="#radio" data-toggle="tab">Radio</a></li>
+    <li><a href="#button" data-toggle="tab">Button</a></li>
+</ul>
+<div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="text-field">
+        <div class="panel-group" id="accordion">
         </div>
-        <div id="text-field" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <ol>
-                    <li>Display</li>
-                    <li>File</li>
-                    <li>Data</li>
-                    <li>Validation</li>
-                    <li>Logic</li>
-                    <li>Preview</li>
-                    <li>Help</li>
-                </ol>
-            </div>
-        </div>
+        <!-- /.panel-group -->
     </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#text-area">
-                    <b>Text Area</b> Component
-                </a>
-            </h4>
+    <div role="tabpanel" class="tab-pane" id="text-area">
+        <div class="panel-group" id="accordion">
         </div>
-        <div id="text-area" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <ol>
-                    <li>Display</li>
-                    <li>File</li>
-                    <li>Data</li>
-                    <li>Validation</li>
-                    <li>Logic</li>
-                    <li>Preview</li>
-                    <li>Help</li>
-                </ol>
-            </div>
-        </div>
+        <!-- /.panel-group -->
     </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#number">
-                    <b>Number</b> Component
-                </a>
-            </h4>
+    <div role="tabpanel" class="tab-pane" id="number">
+        <div class="panel-group" id="accordion">
         </div>
-        <div id="number" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <ol>
-                    <li>Display</li>
-                    <li>File</li>
-                    <li>Data</li>
-                    <li>Validation</li>
-                    <li>Logic</li>
-                    <li>Preview</li>
-                    <li>Help</li>
-                </ol>
-            </div>
-        </div>
+        <!-- /.panel-group -->
     </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#password">
-                    <b>Password</b> Component
-                </a>
-            </h4>
+    <div role="tabpanel" class="tab-pane" id="password">
+        <div class="panel-group" id="accordion">
         </div>
-        <div id="password" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <ol>
-                    <li>Display</li>
-                    <li>File</li>
-                    <li>Data</li>
-                    <li>Validation</li>
-                    <li>Logic</li>
-                    <li>Preview</li>
-                    <li>Help</li>
-                </ol>
-            </div>
-        </div>
+        <!-- /.panel-group -->
     </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#checkbox">
-                    <b>Checkbox</b> Component
-                </a>
-            </h4>
+    <div role="tabpanel" class="tab-pane" id="checkbox">
+        <div class="panel-group" id="accordion">
         </div>
-        <div id="checkbox" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <ol>
-                    <li>Display</li>
-                    <li>File</li>
-                    <li>Data</li>
-                    <li>Validation</li>
-                    <li>Logic</li>
-                    <li>Preview</li>
-                    <li>Help</li>
-                </ol>
-            </div>
-        </div>
+        <!-- /.panel-group -->
     </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#select-boxes">
-                    <b>Select Boxes</b> Component
-                </a>
-            </h4>
+    <div role="tabpanel" class="tab-pane" id="select-boxes">
+        <div class="panel-group" id="accordion">
         </div>
-        <div id="select-boxes" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <ol>
-                    <li>Display</li>
-                    <li>File</li>
-                    <li>Data</li>
-                    <li>Validation</li>
-                    <li>Logic</li>
-                    <li>Preview</li>
-                    <li>Help</li>
-                </ol>
-            </div>
-        </div>
+        <!-- /.panel-group -->
     </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#select">
-                    <b>Select</b> Component
-                </a>
-            </h4>
+    <div role="tabpanel" class="tab-pane" id="select">
+        <div class="panel-group" id="accordion">
         </div>
-        <div id="select" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h4 class="panel-title">
-                            <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-add-edit-a-select-component">
-                                How do I add/edit a <b>Select(/Drop-box)</b> component?
-                            </a>
-                        </h4>
-                    </div>
-                    <div id="how-do-i-add-edit-a-select-component" class="panel-collapse collapse noCrossRef">
-                        <div class="panel-body">
-                            To be added...
-                        </div>
-                    </div>
-                </div>
-                <!-- /.panel -->
-            </div>
-        </div>
+        <!-- /.panel-group -->
     </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#radio">
-                    <b>Radio</b> Component
-                </a>
-            </h4>
+    <div role="tabpanel" class="tab-pane" id="radio">
+        <div class="panel-group" id="accordion">
         </div>
-        <div id="radio" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-            </div>
-        </div>
+        <!-- /.panel-group -->
     </div>
-    <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#button">
-                    <b>Button</b> Component
-                </a>
-            </h4>
+    <div role="tabpanel" class="tab-pane" id="button">
+        <div class="panel-group" id="accordion">
         </div>
-        <div id="button" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <ol>
-                    <li>Display</li>
-                    <li>File</li>
-                    <li>Data</li>
-                    <li>Validation</li>
-                    <li>Logic</li>
-                    <li>Preview</li>
-                    <li>Help</li>
-                </ol>
-            </div>
-        </div>
+        <!-- /.panel-group -->
     </div>
-    <!-- /.panel -->
 </div>
-<!-- /.panel-group -->
 
 {% include links.html %}
