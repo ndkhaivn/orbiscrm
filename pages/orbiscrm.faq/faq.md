@@ -26,8 +26,8 @@ folder: orbiscrm.faq
                         </a>
                     </p>
                     <p>
-                        <a href="faq.dashboard_report.html#how-do-i-customize-date-range">
-                            How do I customize date range?
+                        <a href="faq.dashboard_report.html#how-do-i-customise-date-range">
+                            How do I customise date range?
                         </a>
                     </p>
                     <p>
