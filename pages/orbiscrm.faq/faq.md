@@ -16,7 +16,7 @@ folder: orbiscrm.faq
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <h4>
-                        Dashboard / Report
+                        <b style="font-style: normal">Dashboard / Report</b>
                     </h4>   
                 </div>
                 <div class="panel-body">
@@ -42,7 +42,7 @@ folder: orbiscrm.faq
         <div class="col-md-6 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
-                    <h4>Calendar</h4>
+                    <h4><b style="font-style: normal">Calendar</b></h4>
                 </div>
                 <div class="panel-body">
                     <p>
@@ -69,7 +69,7 @@ folder: orbiscrm.faq
         <div class="col-md-6 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
-                    <h4>Leads</h4>
+                    <h4><b style="font-style: normal">Leads</b></h4>
                 </div>
                 <div class="panel-body">
                     <p>
@@ -94,7 +94,7 @@ folder: orbiscrm.faq
         <div class="col-md-6 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
-                    <h4>Enquiries / Registered Clients</h4>
+                    <h4><b style="font-style: normal">Enquiries / Registered Clients</b></h4>
                 </div>
                 <div class="panel-body">
                     <p>
@@ -121,7 +121,7 @@ folder: orbiscrm.faq
         <div class="col-md-6 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
-                    <h4>Applications</h4>
+                    <h4><b style="font-style: normal">Applications</b></h4>
                 </div>
                 <div class="panel-body">
                     <p>
@@ -146,7 +146,7 @@ folder: orbiscrm.faq
         <div class="col-md-6 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
-                    <h4>Email</h4>
+                    <h4><b style="font-style: normal">Email</b></h4>
                 </div>
                 <div class="panel-body">
                     <p>
@@ -173,7 +173,7 @@ folder: orbiscrm.faq
         <div class="col-md-6 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
-                    <h4>Visa Type / Framework</h4>
+                    <h4><b style="font-style: normal">Visa Type / Framework</b></h4>
                 </div>
                 <div class="panel-body">
                     <p>
@@ -195,25 +195,25 @@ folder: orbiscrm.faq
         <div class="col-md-6 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
-                    <h4>Form Builder</h4>
+                    <h4><b style="font-style: normal">Forms</b></h4>
                 </div>
                 <div class="panel-body">
                     <p>
-                        <a href="faq.form_builder.html#how-do-i-add-rename-duplicate-test-delete-a-form">
-                            How do I add/rename/duplicate/test/delete a form?
+                        <a href="faq.forms_overview.html#how-do-i-duplicate-a-form">
+                            How do I duplicate a form?
                         </a>
                     </p>
                     <p>
-                        <a href="faq.form_builder.html#how-do-i-add-duplicate-remove-a-component-in-a-form">
-                            How do I add/duplicate/remove a component in a form?
+                        <a href="faq.forms_overview.html#how-do-i-test-preview-a-form">
+                            How do I test(/preview) a form?
                         </a>
                     </p>
                     <p>
-                        <a href="faq.form_builder.html#how-do-i-make-a-component-become-compulsory-required-unique">
-                            How do I make a component become compulsory (required)/ unique?
+                        <a href="faq.form_builder_component_operations.html#how-do-i-duplicate-a-component-in-a-form">
+                            How do I duplicate(/copy & paste) a component in a form?
                         </a>
                     </p>
-                    <a href="faq.form_builder.html" class="btn btn-primary">View More</a>
+                    <a href="faq.forms_overview.html" class="btn btn-primary">View More</a>
                 </div>
             </div>
         </div>
@@ -222,7 +222,7 @@ folder: orbiscrm.faq
         <div class="col-md-6 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
-                    <h4>Staff Management</h4>
+                    <h4><b style="font-style: normal">Staff Management</b></h4>
                 </div>
                 <div class="panel-body">
                     <p>

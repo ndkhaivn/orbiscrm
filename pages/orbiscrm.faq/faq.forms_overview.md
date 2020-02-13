@@ -1,6 +1,6 @@
 ---
-title: Form Builder - Overview
-permalink: faq.form_builder.html
+title: Forms - Overview
+permalink: faq.forms_overview.html
 sidebar: orbis_sidebar
 keywords: form builder
 toc: false
@@ -8,6 +8,111 @@ folder: orbiscrm.faq
 ---
 
 <div class="panel-group" id="accordion">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-rename-a-form">
+                    How do I rename a form?
+                </a>
+            </h4>
+        </div>
+        <div id="how-do-i-rename-a-form" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <ul>
+                    <li>Components Operations</li>
+                    <li>Basic Components</li>
+                    <li>Advanced Components</li>
+                    <li>Layout Components</li>
+                    <li>Other Components</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-duplicate-a-form">
+                    How do I duplicate a form?
+                </a>
+            </h4>
+        </div>
+        <div id="how-do-i-duplicate-a-form" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <ul>
+                    <li>Components Operations</li>
+                    <li>Basic Components</li>
+                    <li>Advanced Components</li>
+                    <li>Layout Components</li>
+                    <li>Other Components</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-test-preview-a-form">
+                    How do I test(/preview) a form?
+                </a>
+            </h4>
+        </div>
+        <div id="how-do-i-test-preview-a-form" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <ul>
+                    <li>Components Operations</li>
+                    <li>Basic Components</li>
+                    <li>Advanced Components</li>
+                    <li>Layout Components</li>
+                    <li>Other Components</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-edit-a-form">
+                    How do I edit a form?
+                </a>
+            </h4>
+        </div>
+        <div id="how-do-i-edit-a-form" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <ul>
+                    <li>Components Operations</li>
+                    <li>Basic Components</li>
+                    <li>Advanced Components</li>
+                    <li>Layout Components</li>
+                    <li>Other Components</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-includes-in-the-form-builder">
+                    What includes in the form builder?
+                </a>
+            </h4>
+        </div>
+        <div id="what-includes-in-the-form-builder" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <ul>
+                    <li>Components Operations</li>
+                    <li>Basic Components</li>
+                    <li>Advanced Components</li>
+                    <li>Layout Components</li>
+                    <li>Other Components</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
     <div class="panel panel-default">
         <div class="panel-heading">
             <h4 class="panel-title">

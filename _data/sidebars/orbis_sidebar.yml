@@ -76,11 +76,14 @@ entries:
         output: web, pdf
 
         subfolders:
-        - title: Form Builder
+        - title: Forms
           output: web, pdf
           subfolderitems:
-            - title: Overview
-              url: /faq.form_builder.html
+            - title: Forms Overview
+              url: /faq.forms_overview.html
+              output: web, pdf
+            - title: Component Opeartions
+              url: /faq.form_builder_component_operations.html
               output: web, pdf
             - title: Basic Components
               url: /faq.form_builder_basic.html
@@ -88,8 +91,11 @@ entries:
             - title: Advanced Components
               url: /faq.form_builder_advanced.html
               output: web, pdf
-            - title: Layout Formatting
+            - title: Layout Components
               url: /faq.form_builder_layout.html
+              output: web, pdf
+            - title: Other Components
+              url: /faq.form_builder_other.html
               output: web, pdf
 
       - title: Staff Management
