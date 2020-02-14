@@ -58,7 +58,10 @@ summary: For more details or technical help, click the <b><a href="https://help.
         </div>
         <div id="how-do-i-make-a-component-required" class="panel-collapse collapse noCrossRef">
             <div class="panel-body">
-                To be added...
+                <ol>
+                    <li>Navigate to the <b>Validation</b> section</li>
+                    <li>Tick the checkbox of <b>Required</b> or <b>Unique</b> as you need</li>
+                </ol>
             </div>
         </div>
     </div>
