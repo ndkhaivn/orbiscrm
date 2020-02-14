@@ -128,7 +128,16 @@ summary: For more details or technical help, click the <b><a href="https://help.
                     <li>Click the【Save Logic】button</li>
                     <li>Click the【Save】button</li>
                     <li>Finally, test it after saving the form<br>
-                        <img src="">
+                        <ul>
+                            <li>
+                                <img src="images/form_builder/no-for-hidden.png"><br>
+                                <span style="font-style: italic; font-size: smaller">Example: No for hidden</span>
+                            </li>
+                            <li>
+                                <img src="images/form_builder/yes-for-shown.png"><br>
+                                <span style="font-style: italic; font-size: smaller">Example: Yes for shown</span>
+                            </li>
+                        </ul>
                     </li>
                 </ol>
             </div>
