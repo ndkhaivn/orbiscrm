@@ -2,7 +2,7 @@
 title: Form Builder - Component Operations
 permalink: faq.form_builder_component_operations.html
 sidebar: orbis_sidebar
-keywords: form builder
+keywords: form builder, operations, components, only, display, hide, show, response, configure, previous
 toc: false
 folder: orbiscrm.faq
 summary: For more details or technical help, click the <b><a href="https://help.form.io/userguide/" target="_blank">Help</a></b> in the top-right corner of the pop-up window
@@ -106,7 +106,7 @@ summary: For more details or technical help, click the <b><a href="https://help.
                         Navigate to the <b>Logic</b> section
                         <img src="images/form_builder/text-field-logic.png">
                     </li>
-                    <li>Click the【<b>+ New Logic</b>】button</li>
+                    <li>Click the【<b>+ Add Logic</b>】button</li>
                     <li>Type in a proper <b>Logic Name</b> for reference (E.g. <span style="font-style: italic">Logic-1</span>)</li>
                     <li>Navigate to the <b>Trigger</b> section
                         <ol>
@@ -115,7 +115,8 @@ summary: For more details or technical help, click the <b><a href="https://help.
                             <li><b>Has the value:</b> > <b style="color:red">yes</b></li>
                         </ol>
                     </li>
-                    <li>Navigate to the <b>Action</b> section
+                    <li>Navigate to the <b>Actions</b> section
+                    <li>Click the【<b>+ Add Action</b>】button</li>
                         <ol>
                             <li>Type in a proper <b>Action Name</b> (E.g. <span style="font-style: italic">Action-1</span>)</li>
                             <li><b>Type</b> > <b style="color:red">Property</b></li>
