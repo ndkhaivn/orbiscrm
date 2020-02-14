@@ -5,68 +5,9 @@ sidebar: orbis_sidebar
 keywords: form builder
 toc: false
 folder: orbiscrm.faq
+summary: For more details or technical help, click the <b><a href="https://help.form.io/userguide/" target="_blank">Help</a></b> in the top-right corner of the pop-up window
 ---
-Click the <b>(Edit)</b> <img src="images/edit_icon.png" style="width: 3%"> icon to set more details for the component in a pop-up window, including:
-<ul id="profileTabs" class="nav nav-tabs">
-    <li><a href="#display" data-toggle="tab">Display</a></li>
-    <li><a href="#file" data-toggle="tab">File</a></li>
-    <li><a href="#tab" data-toggle="tab">Data</a></li>
-    <li><a href="#validation" data-toggle="tab">Validation</a></li>
-    <li><a href="#logic" data-toggle="tab">Logic</a></li>
-    <li><a href="#preview" data-toggle="tab">Preview</a></li>
-    <li><a href="#help" data-toggle="tab">Help</a></li>
-</ul>
-<div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="display">
-        To be added...
-    </div>
-    <div role="tabpanel" class="tab-pane" id="file">
-        To be added...
-    </div>
-    <div role="tabpanel" class="tab-pane" id="tab">
-        To be added...
-    </div>
-    <div role="tabpanel" class="tab-pane" id="validation">
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h4 class="panel-title">
-                    <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-make-a-component-required">
-                        How do I make a component become compulsory/required/unique?
-                    </a>
-                </h4>
-            </div>
-            <div id="how-do-i-make-a-component-required" class="panel-collapse collapse noCrossRef">
-                <div class="panel-body">
-                    To be added...
-                </div>
-            </div>
-        </div>
-        <!-- /.panel -->
-    </div>
-    <div role="tabpanel" class="tab-pane" id="logic">
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h4 class="panel-title">
-                    <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-change-a-component-display-logic">
-                        How do I configure a question to only display/hide based on a user’s response to a previous question?
-                    </a>
-                </h4>
-            </div>
-            <div id="how-do-i-change-a-component-display-logic" class="panel-collapse collapse noCrossRef">
-                <div class="panel-body">
-                    To be added...
-                </div>
-            </div>
-        </div>
-        <!-- /.panel -->
-    </div>
-    <div role="tabpanel" class="tab-pane" id="preview">
-        To be added...
-    </div>
-    <div role="tabpanel" class="tab-pane" id="help">
-        For more details or technical help, click the <b><a href="https://help.form.io/userguide/" target="_blank">Help</a></b> in the top-right corner of the pop-up window
-    </div>
-</div>
+
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
         <div class="panel-heading">
@@ -102,6 +43,92 @@ Click the <b>(Edit)</b> <img src="images/edit_icon.png" style="width: 3%"> icon 
                     <li>Hover the mouse to the specific <b>Component</b></li>
                     <li>Click the <b>(Copy)</b> <img src="images/copy_icon.png" style="width: 3%"> icon</li>
                     <li>Click the <b>(Paste Below)</b> <img src="images/paste_below_icon.png" style="width: 3%"> icon</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-make-a-component-required">
+                    How do I make a component become compulsory/required/unique?
+                </a>
+            </h4>
+        </div>
+        <div id="how-do-i-make-a-component-required" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                To be added...
+            </div>
+        </div>
+    </div>
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#how-do-i-change-a-component-display-logic">
+                    How do I configure a question to only display based on a user’s response to a previous question?
+                </a>
+            </h4>
+        </div>
+        <div id="how-do-i-change-a-component-display-logic" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                <ol>
+                    <li>
+                        When you want to configure a component <span style="font-style: italic; color: dodgerblue">(E.g. His/her name?)</span> to display based 
+                        on the response to a previous radio component <span style="font-style: italic; color: red">(E.g. Are you married?)</span><br>
+                        <img src="images/form_builder/radio.png">
+                    </li>
+                    <li>
+                        Firstly, drag and drop a radio component and rename the label in the <b>Display</b> section                      
+                    </li>
+                    <li>
+                        Navigate to the <b>Data</b> > <b>Values</b> section in the pop-up window
+                    </li>
+                    <li>
+                        Fill in the <b>LABEL</b> and <b>VALUE</b> section
+                        <span style="font-style: italic">(E.g. Yes(yes); No(no))</span>
+                    </li>
+                    <li>
+                        Click【<b>Save</b>】button to save this radio component
+                    </li>
+                    <li>
+                        Then, drag and drop a <b>Text Field</b> component
+                        <img src="/images/form_builder/text-field-display.png">
+                    </li>
+                    <li>
+                        Rename the label to <span style="font-style: italic; color: dodgerblue">"His/her name?"</span> in the <b>Display</b> section
+                    </li>
+                    <li>
+                        Tick the checkbox of <b>Hidden</b>
+                    </li>
+                    <li>
+                        Navigate to the <b>Logic</b> section
+                        <img src="images/form_builder/text-field-logic.png">
+                    </li>
+                    <li>Click the【<b>+ New Logic</b>】button</li>
+                    <li>Type in a proper <b>Logic Name</b> for reference (E.g. <span style="font-style: italic">Logic-1</span>)</li>
+                    <li>Navigate to the <b>Trigger</b> section
+                        <ol>
+                            <li><b>Type</b> > <b style="color:red">Simple</b></li>
+                            <li><b>When the component from</b> > <b style="color:red">Are you married? (radio1)</b></li>
+                            <li><b>Has the value:</b> > <b style="color:red">yes</b></li>
+                        </ol>
+                    </li>
+                    <li>Navigate to the <b>Action</b> section
+                        <ol>
+                            <li>Type in a proper <b>Action Name</b> (E.g. <span style="font-style: italic">Action-1</span>)</li>
+                            <li><b>Type</b> > <b style="color:red">Property</b></li>
+                            <li><b>Component Property</b> > <b style="color:red">Hidden</b></li>
+                            <li><b>Set State</b> > <b style="color:red">False</b></li>
+                        </ol>
+                    </li>
+                    <li>Click the【Save Action】button</li>
+                    <li>Click the【Save Logic】button</li>
+                    <li>Click the【Save】button</li>
+                    <li>Finally, test it after saving the form<br>
+                        <img src="">
+                    </li>
                 </ol>
             </div>
         </div>

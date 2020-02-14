@@ -85,17 +85,11 @@ entries:
             - title: Component Opeartions
               url: /faq.form_builder_component_operations.html
               output: web, pdf
-            - title: Basic Components
-              url: /faq.form_builder_basic.html
+            - title: Data Components
+              url: /faq.form_builder_data.html
               output: web, pdf
-            - title: Advanced Components
-              url: /faq.form_builder_advanced.html
-              output: web, pdf
-            - title: Layout Components
-              url: /faq.form_builder_layout.html
-              output: web, pdf
-            - title: Other Components
-              url: /faq.form_builder_other.html
+            - title: File Components
+              url: /faq.form_builder_file.html
               output: web, pdf
 
       - title: Staff Management
