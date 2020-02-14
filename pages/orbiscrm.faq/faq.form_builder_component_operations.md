@@ -2,7 +2,7 @@
 title: Form Builder - Component Operations
 permalink: faq.form_builder_component_operations.html
 sidebar: orbis_sidebar
-keywords: form builder, operations, components, only, display, hide, show, response, configure, previous
+keywords: form builder, operations, components, only, display, hide, show, response, configure, previous, duplicate, copy, compulsory, required, unique, must
 toc: false
 folder: orbiscrm.faq
 summary: For more details or technical help, click the <b><a href="https://help.form.io/userguide/" target="_blank">Help</a></b> in the top-right corner of the pop-up window
@@ -97,7 +97,7 @@ summary: For more details or technical help, click the <b><a href="https://help.
                     </li>
                     <li>
                         Then, drag and drop a <b>Text Field</b> component
-                        <img src="/images/form_builder/text-field-display.png">
+                        <img src="images/form_builder/text-field-display.png">
                     </li>
                     <li>
                         Rename the label to <span style="font-style: italic; color: dodgerblue">"His/her name?"</span> in the <b>Display</b> section
