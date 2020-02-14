@@ -21,7 +21,9 @@ folder: orbiscrm.faq
                 <ol>
                     <li>Navigate to the <b>Data</b> components section</li>
                     <li>Drag and drop the <b>Edit Grid</b> component</li>
-                    <li>Edit or hide the label of it</li>
+                    <li>Edit the label in the <b>Display</b> section<br>
+                        OR hide the label by scrolling down and ticking the checkbox of <b>Hide Label</b>
+                    </li>
                     <li>Click the【Save】button</li>
                     <li>Then drag and drop any other components inside the <b>Edit Grid</b> when they should be appeared repeatedly</li>
                     <li>Finally, test it after saving the form<br>
