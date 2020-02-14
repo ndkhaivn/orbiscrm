@@ -87,27 +87,6 @@ folder: orbiscrm.faq
         </div>
     </div>
     <!-- /.panel -->
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h4 class="panel-title">
-                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#what-includes-in-the-form-builder">
-                    What includes in the form builder?
-                </a>
-            </h4>
-        </div>
-        <div id="what-includes-in-the-form-builder" class="panel-collapse collapse noCrossRef">
-            <div class="panel-body">
-                <ul>
-                    <li><a href="faq.form_builder_component_operations.html">Components Operations</a></li>
-                    <li><a href="faq.form_builder_basic.html">Basic Components</a></li>
-                    <li><a href="faq.form_builder_advanced.html">Advanced Components</a></li>
-                    <li><a href="faq.form_builder_layout.html">Layout Components</a></li>
-                    <li><a href="faq.form_builder_other.html">Other Components</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <!-- /.panel -->
 </div>
 <!-- /.panel-group -->
 
