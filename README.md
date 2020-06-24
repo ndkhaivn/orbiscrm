@@ -5,6 +5,20 @@
 This is a CRM system built for an immigration advisor company in Australia. 
 Based on the contract, we are not allowed to maintain the source code, this project only contains the user manual
 
+# Technology, Libraries & SDKs
+
+1. CakePHP 3
+2. jQuery 3.4.0
+3. Bootstrap 4.3.1
+4. DataTables
+5. FullCalendar
+6. jQueryValidation
+7. Formio.js
+8. Daterangepicker
+9. [Xero PHP oAuth2](https://github.com/XeroAPI/xero-php-oauth2)
+10. [Dropbox PHP SDK](https://github.com/kunalvarma05/dropbox-php-sdk)
+11. [Google API PHP Client](https://github.com/googleapis/google-api-php-client)
+
 # Core Features
 
 ## Form Builder
